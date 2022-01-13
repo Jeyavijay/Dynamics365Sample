@@ -9,7 +9,7 @@ import { ICampaignbannerViewProps } from './campaignbanner';
 export default (props: ICampaignbannerViewProps) => {
     return (
         <div className='row'>
-            <h2>Config Value: {props.config.showText}</h2>
+            <h2>Config Valhhhhue: {props.config.showText}</h2>
             <h2>Resource Value: {props.resources.resourceKey}</h2>
         </div>
     );
