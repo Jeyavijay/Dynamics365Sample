@@ -20,7 +20,7 @@ const mockData: ICampaignbannerData = {
 };
 
 const mockConfig: ICampaignbannerConfig = {
-    showText: 'campaigdfdefdnbanner'
+    showText: 'campaignbanner'
 };
 
 const mockActions = {};

@@ -130,6 +130,8 @@ const OrderDetailsView: React.FC<IOrderDetailsViewProps> = ({
     help,
     groups
 }) => {
+    console.log('=========++++++=========', OrderDetailsView);
+
     return (
         <Module {...moduleProps}>
             {heading}

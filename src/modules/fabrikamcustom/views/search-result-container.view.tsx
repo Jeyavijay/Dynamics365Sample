@@ -12,6 +12,8 @@ const SearchResultContainerView: React.FC<ISearchResultContainerViewProps> = pro
     const { SearchResultContainer, products, pagination, ProductsContainer, ProductSectionContainer, choiceSummary, isMobile, modalToggle, searchResultModal, TitleViewProps,
         refineMenu, categoryHierarchy, sortByOptions, CategoryNavContainer, RefineAndProductSectionContainer, errorMessage, FeatureSearchContainer, similarLookProduct } = props;
     const isRecoSearchPage = props.context.actionContext.requestContext.query?.recommendation;
+    console.log('=========++++++=========', similarLookProduct);
+
     if (isMobile) {
         return (
             <Module {...SearchResultContainer}>
@@ -34,9 +36,9 @@ const SearchResultContainerView: React.FC<ISearchResultContainerViewProps> = pro
     return (
         <Module {...SearchResultContainer}>
             {categoryHierarchy &&
-            <Node {...CategoryNavContainer}>
-                {renderCategoryHierarchy(categoryHierarchy)}
-            </Node>}
+                <Node {...CategoryNavContainer}>
+                    {renderCategoryHierarchy(categoryHierarchy)}
+                </Node>}
             <Node {...RefineAndProductSectionContainer}>
                 {refineMenu && renderRefiner(refineMenu)}
                 <Node {...ProductSectionContainer}>
@@ -131,7 +133,7 @@ const renderTitle = (props: ITitleViewProps): JSX.Element | null => {
             <Node {...TitleContainer}>
                 <h2>
                     {title.titlePrefix}
-                    {title.titleText}
+                    {title.titleText}Jeyavijay
                     (
                     {title.titleCount}
                     )
