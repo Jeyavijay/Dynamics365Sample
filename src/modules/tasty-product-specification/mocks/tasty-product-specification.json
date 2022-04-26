@@ -1,0 +1,207 @@
+{
+    "exception": null,
+    "typeName": "tasty-product-specification",
+    "id": "product-specification",
+
+    "pageRoot": {
+		"typeName": "tasty-product-specification",
+        "id": "core-root_kdgzbmy",
+        "friendlyName": "Core root 1",
+        "config": {},
+        "modules": {
+            "htmlHead": [
+                {
+					"typeName": "tasty-product-specification",
+                    "id": "product-page-summary",
+                    "friendlyName": "Product page summary",
+                    "config": { "faviconUrl": null }
+                },
+                {
+					"typeName": "tasty-product-specification",
+                    "id": "IDNMAid2_kzmpike",
+                    "friendlyName": "Default metatags",
+                    "config": {
+                        "metaTags": [
+                            "<link rel=\"icon\" type=\"image/png\" href=\"https://images-us-prod.cms.commerce.dynamics.com/cms/api/qppnpfbwnj/imageFileData/MA1qts?pubver=1\">"
+                        ]
+                    }
+                }
+            ],
+            "body": [
+                {
+					"typeName": "tasty-product-specification",
+                    "id": "default-page",
+                    "friendlyName": "Default page",
+                    "config": { "skipToMainText": "Skip to main content", "pageTheme": "sfl-fabrikam" },
+                    "modules": {
+                        "primary": [
+                            {
+								"typeName": "tasty-product-specification",
+                                "id": "default-container 4",
+                                "friendlyName": "Product specification",
+                                "config": { "heading": {}, "layout": "stacked", "containerType": "container", "childrenWidth": "four" },
+                                "modules": {
+                                    "content": [
+                                        {
+											"typeName": "tasty-product-specification",
+                                            "id": "product-specification 1",
+                                            "friendlyName": "Product details",
+                                            "config": { "heading": { "text": "Product specifications", "tag": "h2" } }
+                                        },
+                                        { "typeName": "spacer", "id": "spacer 1", "friendlyName": "Spacer 1", "config": {} }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "renderingContext": {
+        "User": {
+            "Cid": 0,
+            "IsAuthenticated": false,
+            "FirstName": null,
+            "LastName": null,
+            "MemberName": null,
+            "DisplayMemberName": null,
+            "Country": null,
+            "WindowsLiveId": null,
+            "SignInOutUrl": "https://tcpluat.commerce.dynamics.com:443/tasty-ragi-bites-choco-poco-1-2kg/onerf/signin?EEL=True&pcexp=True",
+            "SignInUrl": "https://tcpluat.commerce.dynamics.com:443/tasty-ragi-bites-choco-poco-1-2kg/onerf/signin?EEL=True&pcexp=True",
+            "SignOutUrl": "https://tcpluat.commerce.dynamics.com:443/tasty-ragi-bites-choco-poco-1-2kg/onerf/signout?pcexp=True",
+            "SilentSignInUrl": null,
+            "MeUrl": null,
+            "ErrorMessages": [],
+            "Name": null,
+            "Puid": 0,
+            "Muid": null,
+            "Xuid": null,
+            "Gamertag": null,
+            "AgeGroup": 0,
+            "BirthDate": null,
+            "CompactTicket": null,
+            "XboxLiveCompactTicket": null,
+            "IsChild": false,
+            "IsParent": false,
+            "FamilyId": 0,
+            "IsFamilySafetyUser": false,
+            "ProxyTicket": null,
+            "Token": null,
+            "IsEncrypted": false,
+            "TicketType": 0,
+            "AuthenticationType": 0,
+            "EmailAddress": null,
+            "SigninName": null,
+            "OrganizationId": "",
+            "ObjectIdentifier": null,
+            "Roles": null,
+            "ChannelId": null,
+            "RetailServerErrorCode": null,
+            "RetailServerErrorCorrelationId": null,
+            "RetailServerErrorMessage": null,
+            "CustomerAccountNumber": null,
+            "CatalogId": null,
+            "OptOutWebActivityTracking": null,
+            "IsB2b": false,
+            "Claims": null,
+            "TenantId": ""
+        },
+        "DeviceType": "Pc",
+        "experiments": { "userId": "4eeea72c-ce5c-4727-8239-56fc654c04d2", "activeExperiments": [] },
+        "tuid": "36805c84-cb03-414f-a227-731dc6bdafa0",
+        "segmentRequestId": null,
+        "missingSegments": {},
+        "requestUrl": "https://tcpluat.commerce.dynamics.com/tasty-ragi-bites-choco-poco-1-2kg/5637284082.p",
+        "sitePath": null,
+        "CrossChannelIdentity": [],
+        "clientIPAddress": "14.102.22.148",
+        "clientContext": {
+            "deviceType": "Pc",
+            "isBot": false,
+            "requestUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36"
+        },
+        "canonicalUrl": null,
+        "canonicalDomain": "www.soulfulltest.co.in",
+        "staticContext": { "staticCdnUrl": "/_scnr/", "staticCdnUrlWithLocale": "/en-IN/_msdyn365/_scnr/" },
+        "user": {
+            "token": null,
+            "isAuthenticated": false,
+            "isSignedIn": false,
+            "signInUrl": "https://tcpluat.commerce.dynamics.com/_msdyn365/signin",
+            "signOutUrl": "https://tcpluat.commerce.dynamics.com/_msdyn365/signout",
+            "signUpUrl": "https://tcpluat.commerce.dynamics.com/_msdyn365/signup",
+            "editProfileUrl": "https://tcpluat.commerce.dynamics.com/_msdyn365/editprofile",
+            "signinName": null,
+            "firstName": null,
+            "lastName": null,
+            "optOutWebActivityTracking": false,
+            "isB2b": false,
+            "tenantId": "",
+            "customerAccountNumber": null,
+            "catalogId": null,
+            "name": null,
+            "emailAddress": null,
+            "retailServerErrorCode": null,
+            "retailServerErrorMessage": null,
+            "userClaims": null
+        },
+        "previewContext": null,
+        "telemetryPageName": "Product Details-00000341-0-5637284082",
+        "locale": "en-IN",
+        "textDirection": "ltr",
+        "suggestedMarket": "IN",
+        "marketSettings": null,
+        "urlTokens": { "itemId": "5637284082", "recordId": "5637284082", "pageType": "Product" },
+        "apiSettings": {
+            "baseUrl": "https://sculit4uv0n89693812-rs.su.retail.dynamics.com/",
+            "retailServerEndpointOverrideDomain": null,
+            "channelId": 5637154326,
+            "eCommerceChannelId": "rpbpwaytjjr",
+            "eCommerceCrossChannelId": null,
+            "catalogId": 0,
+            "oun": "00000341",
+            "baseImageUrl": "https://images-us-prod.cms.commerce.dynamics.com/cms/api/qppnpfbwnj/imageFileData/search?fileName=/",
+            "ratingsReviewsEndpoint": null,
+            "ratingsReviewsProxyEndpoint": "https://tcpluat.commerce.dynamics.com/_msdyn365/rnr/",
+            "rnr": { "id": null, "url": null, "proxyUrl": "https://tcpluat.commerce.dynamics.com/_msdyn365/rnr/" },
+            "externalCmsBaseUrls": null
+        },
+        "gridSettings": { "xs": { "w": 768 }, "sm": { "w": 991 }, "md": { "w": 1199 }, "lg": { "w": 1599 }, "xl": { "w": 1600 } },
+        "debugMode": 0,
+        "operationId": "760b8a1ee2c21c41bd8a0ad5ef97058b",
+        "siteTheme": "tasty-fabrikam",
+        "sameSiteRequired": true,
+        "features": {
+            "enableAuthoringRemoveAndAddModule": true,
+            "scnr_blob": true,
+            "legacy_getactiveprices": true,
+            "authoring_inline_edit": true,
+            "allow_react_statics_in_body": true,
+            "disable_cors": true,
+            "enable_render_cache_all": true,
+            "disable_routeerrors_cache": true,
+            "disable_render_result_compression": true,
+            "async_chunks": true,
+            "publishGroups": true,
+            "experimentation": true,
+            "enableUrlLocalization": true
+        },
+        "pageFragmentStylePresetList": [],
+        "themeOverride": {
+            "url": "https://files-us-prod.cms.commerce.dynamics.com/cms/api/qppnpfbwnj/binary/MA1VFS",
+            "disableDefault": false
+        },
+        "telemetrySettings": {
+            "eventHubEndPoint": "",
+            "eventHubAuthToken": "",
+            "operationId": "760b8a1ee2c21c41bd8a0ad5ef97058b",
+            "url": "",
+            "clientAuth": "",
+            "environmentId": "",
+            "commerceCoreEnvId": "",
+            "operationalInsightsInstrumentationKey": ""
+        }
+    }
+}

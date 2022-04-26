@@ -1,0 +1,140 @@
+//Variables
+$catalog-picker-desktop-list-bg-color: #FFFFFF;
+$catalog-picker-button-border: 1px solid $msv-gray-30;
+$catalog-picker-heading-line-height: 56px;
+$catalog-picker-subheading-margin-top: 22px;
+$catalog-picker-list-margin-bottom: 12px;
+$catalog-picker-height: 48px;
+$catalog-picker-line-height: 48px;
+
+//style presets
+:root {
+    --ms-catalog-picker-font-size: var(--msv-body-font-size-m);
+    --ms-catalog-picker-color: var(--msv-font-primary-color);
+    --ms-catalog-picker-gray-500: #{$msv-gray-500};
+    --ms-catalog-picker-desktop-list-bg-color: #{$catalog-picker-desktop-list-bg-color};
+    --ms-catalog-picker-mobile-list-bg-color: #{$msv-white};
+    --ms-catalog-picker-font-color: #{$msv-black};
+    --ms-catalog-picker-link-font-color: #{$msv-white};
+}
+
+.ms-catalog-picker {
+    z-index: 1015;
+    align-self: flex-start;
+    align-items: self-end;
+    font-size: var(--ms-catalog-picker-font-size);
+    height: $catalog-picker-height;
+
+    .ms-catalog-options {
+        &__list {
+            &-heading {
+                font-size: $msv-font-size-xxl;
+                font-weight: 700;
+                line-height: $catalog-picker-heading-line-height;
+                text-align: center;
+            }
+
+            &-subheading {
+                font-size: $msv-font-size-xl;
+                font-weight: 400;
+                line-height: 32px;
+                margin-top: $catalog-picker-subheading-margin-top;
+                text-align: center;
+            }
+
+            &__wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+            }
+
+            &__item {
+                margin-top: $catalog-picker-heading-line-height;
+                max-width: calc(50% - 7px);
+
+                &__text {
+                    font-size: $msv-font-size-xxl;
+                    font-weight: 700;
+                    line-height: 67px;
+                    margin-bottom: $catalog-picker-list-margin-bottom;
+                    text-align: left;
+                }
+
+                &__section {
+                    position: relative;
+                }
+            }
+        }
+
+        &__button {
+            background: var(--ms-catalog-picker-desktop-list-bg-color);
+            border: $catalog-picker-button-border;
+            border-radius: 100px;
+            box-sizing: border-box;
+            cursor: pointer;
+            display: none;
+            font-size: 14px;
+            line-height: 20px;
+            padding: 12px 48px;
+
+            &__wrapper {
+                align-items: center;
+                bottom: 0;
+                display: flex;
+                height: 100%;
+                justify-content: center;
+                left: 0;
+                margin: auto;
+                position: absolute;
+                right: 0;
+                top: 0;
+                width: 100%;
+
+                &:hover {
+                    background-color: rgba(0, 0, 0, 0.4);
+
+                    & button {
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: $msv-breakpoint-l) {
+    .ms-catalog-picker {
+        margin-left: 0;
+        height: auto;
+
+        .ms-catalog-options {
+            &__list {
+                &-heading {
+                    font-size: $msv-font-size-xl;
+                }
+
+                &-subheading {
+                    font-size: $msv-font-size-l;
+                }
+
+                &__item {
+                    &__text {
+                        font-size: $msv-font-size-l;
+                        line-height: normal;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: $msv-breakpoint-m) {
+    .ms-catalog-picker {
+        .ms-catalog-options {
+            &__button {
+                font-size: 12px;
+                padding: 7px 20px;
+            }
+        }
+    }
+}

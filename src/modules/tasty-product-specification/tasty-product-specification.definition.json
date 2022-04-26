@@ -1,0 +1,51 @@
+{
+	"$type": "contentModule",
+	"friendlyName": "Tasty product specification",
+	"name": "tasty-product-specification",
+	"description": "Product details is used to display additional information about the product in the product details page",
+	"categories": [
+		"Product details "
+	],
+	"dataActions": {
+		"product": {
+			"path": "@msdyn365-commerce-modules/retail-actions/dist/lib/get-selected-variant"
+		},
+		"productSpecificationData": {
+			"path": "@msdyn365-commerce-modules/product-specification/dist/lib/dataActions/get-attributes-for-selected-variant"
+		}
+	},
+	"config": {
+		"heading": {
+			"friendlyName": "Heading",
+			"description": "Heading for product details",
+			"$ref": "@msdyn365-commerce-modules/definitions/dist/src/Heading.json#/definitions/heading"
+		},
+		"displayStyle": {
+			"friendlyName": "Display style",
+			"description": "Flag to render product specification as a table or an accordion",
+			"type": "string",
+			"enum": {
+				"accordion": "accordion",
+				"table": "table"
+			},
+			"default": "table",
+			"scope": "module"
+		},
+		"className": {
+			"friendlyName": "Custom CSS class name",
+			"description": "Provide a custom css class name defined in the theme pack to target the CSS for this module",
+			"type": "string",
+			"default": ""
+		}
+	},
+	"resources": {
+		"trueValueText": {
+			"value": "Yes",
+			"comment": "Text to show for boolean fields whose value is true"
+		},
+		"falseValueText": {
+			"value": "No",
+			"comment": "Text to show for boolean fields whose value is false"
+		}
+	}
+}

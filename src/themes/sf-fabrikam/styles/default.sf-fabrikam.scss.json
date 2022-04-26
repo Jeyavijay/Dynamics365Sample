@@ -1,0 +1,16 @@
+{
+    "$type": "styleDefinition",
+    "name": "default.sf-fabrikam",
+    "friendlyName": "Soulfull Fabrikam theme",
+    "description": "This is a Soulfull fabrikam theme style preset",
+    "global": {},
+    "modules": {
+        "header": {
+            "msv-header-bg": "#fff"
+        },
+        "navigation-menu": {
+            "msv-nav-bg": "#fff",
+            "msv-nav-font-color": "#111"
+        }
+    }
+}

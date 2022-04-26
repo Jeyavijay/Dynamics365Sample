@@ -1,0 +1,202 @@
+$msv-primary-font-family: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+$msv-nav-font-family: 'DIN Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+$msv-section-heading-font-family: 'DIN Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+$msv-page-heading-font-family: 'Carton_Six', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+$msv-font-assistant: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+$msv-font-allerta: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+$msv-font-cinzel: Muli, Times, 'Times New Roman', serif;
+$msv-font-weight-bold: bold;
+$msv-font-weight-normal: normal;
+$msv-font-weight-light: 300;
+$msv-font-weight-heavy: 600;
+
+$msv-heading-text-size: 20px;
+$msv-heading-line-height: 28px;
+
+// ADDED BY THE TEAM
+$msv-font-family-carton-six: 'Carton Six';
+$msv-font-family-monospace: monospace, monospace;
+
+$msv-font-size-52-5: 52.5px;
+$msv-font-size-34: 34px;
+$msv-font-size-26: 26px;
+$msv-font-size-20: 20px;
+$msv-font-size-19: 19px;
+$msv-font-size-16: 16px;
+$msv-font-size-15: 15px;
+$msv-font-size-14: 14px;
+$msv-font-size-13: 13px;
+$msv-font-size-0: 0;
+$msv-font-size-80: 80%;
+$msv-font-size-100: 100%;
+$msv-font-size-r0-75: 0.75rem;
+$msv-font-size-r0-85: 0.85rem;
+$msv-font-size-r1: 1rem;
+$msv-font-size-r1-15: 1.15rem;
+$msv-font-size-r1-25: 1.25rem;
+$msv-font-size-r1-5: 1.5rem;
+$msv-font-size-r2: 2rem;
+$msv-font-size-r2-3: 2.3rem;
+$msv-font-size-r3-5: 3.5rem;
+
+$msv-font-weight-900: 900;
+$msv-font-weight-700: 700;
+$msv-font-weight-600: 600;
+$msv-font-weight-400: 400;
+
+// ADDED BY THE TEAM
+
+$msv-font-size-s: 14px;
+$msv-font-size-m: 17.25px;
+$msv-font-size-l: 18px;
+$msv-font-size-xl: 24px;
+$msv-font-size-xxl: 48px;
+$msv-title-font-size-xs: 24px;
+$msv-title-font-size-s: 36px;
+$msv-title-font-size-m: 100px;
+$msv-title-font-size-l: 160px;
+$msv-line-height-s: 18px;
+$msv-line-height-m: 21px;
+$msv-line-height-l: 24px;
+$msv-line-height-xl: 31px;
+$msv-line-height-xxl: 63px;
+$msv-title-line-height-xs: 31px;
+$msv-title-line-height-s: 46px;
+$msv-title-line-height-m: 134px;
+$msv-title-line-height-l: 215px;
+
+$msv-icon-size-small: 16px;
+$msv-icon-size: 24px;
+$msv-text-size: $msv-font-size-m;
+$msv-text-line-height: 20px;
+
+@mixin fabrikam-font(
+    $font-weight: $msv-font-weight-normal,
+    $font-size: $msv-font-size-s,
+    $line-height: $msv-line-height-s,
+    $text-transform: none,
+    $font-family: $msv-font-assistant
+) {
+    font-family: $font-family;
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+    text-transform: $text-transform;
+}
+
+@mixin font-content(
+    $font-weight: $msv-font-weight-normal,
+    $font-size: $msv-font-size-s,
+    $line-height: $msv-line-height-s,
+    $text-transform: none
+) {
+    @include fabrikam-font($font-weight, $font-size, $line-height, $text-transform);
+}
+
+@mixin font-content-underline($font-weight: $msv-font-weight-normal, $font-size: $msv-font-size-s, $line-height: $msv-line-height-s) {
+    text-decoration-line: underline;
+
+    @include font-content($font-weight, $font-size, $msv-line-height-m);
+}
+
+@mixin font-content-s($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight);
+}
+
+@mixin font-content-s-uppercase($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight, $msv-font-size-s, $msv-line-height-s, uppercase);
+}
+
+@mixin font-content-s-height-l($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight, $msv-font-size-s, $msv-line-height-l);
+}
+
+@mixin font-content-m($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight, $msv-font-size-m, $msv-line-height-m);
+}
+
+@mixin font-content-m-underline($font-weight: $msv-font-weight-normal) {
+    text-decoration-line: underline;
+
+    @include font-content($font-weight, $msv-font-size-m, $msv-line-height-m);
+}
+
+@mixin font-content-m-strikethrough($font-weight: $msv-font-weight-normal) {
+    text-decoration-line: line-through;
+
+    @include font-content($font-weight, $msv-font-size-m, $msv-line-height-m);
+}
+
+@mixin font-content-l($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight, $msv-font-size-l, $msv-line-height-l);
+}
+
+@mixin font-content-xl($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight, $msv-font-size-xl, $msv-line-height-xl);
+}
+
+@mixin font-content-xxl($font-weight: $msv-font-weight-normal) {
+    @include font-content($font-weight, $msv-font-size-xxl, $msv-line-height-xxl);
+}
+
+@mixin fabrikam-display($font-size: $msv-title-font-size-xs, $line-height: $msv-title-line-height-xs, $font-family: $msv-font-allerta) {
+    @include fabrikam-font($font-weight-normal, $font-size, $line-height, uppercase, $font-family);
+}
+
+@mixin font-display-xs() {
+    @include fabrikam-display();
+}
+
+@mixin font-display-s() {
+    @include fabrikam-display($msv-title-font-size-s, $msv-title-line-height-s);
+}
+
+@mixin font-display() {
+    letter-spacing: 0.05em;
+
+    @include fabrikam-display($msv-title-font-size-m, $msv-title-line-height-m, $msv-font-cinzel);
+}
+
+@mixin font-display-l() {
+    letter-spacing: 0.05em;
+
+    @include fabrikam-display($msv-title-font-size-l, $msv-title-line-height-l, $msv-font-cinzel);
+}
+
+@mixin font-glyph-standard() {
+    font-size: $msv-icon-size;
+}
+
+@mixin font-glyph-small() {
+    font-size: $msv-icon-size-small;
+}
+
+@mixin font-content-heading($font-weight: $msv-font-weight-heavy) {
+    @include font-content($font-weight, $msv-heading-text-size, $msv-heading-line-height);
+}
+
+// Style presets
+:root {
+    // Headings
+    --msv-heading-font-size-s: #{$msv-title-font-size-xs};
+    --msv-heading-font-size-m: #{$msv-title-font-size-s};
+    --msv-heading-font-size-l: #{$msv-title-font-size-m};
+    --msv-heading-font-size-xl: #{$msv-title-font-size-l};
+
+    // Body
+    --msv-body-font-size-s: #{$msv-font-size-s};
+    --msv-body-font-size-m: #{$msv-font-size-m};
+    --msv-body-font-size-l: #{$msv-font-size-l};
+    --msv-body-font-size-xl: #{$msv-font-size-xl};
+    --msv-body-font-size-xxl: #{$msv-font-size-xxl};
+
+    // Weight
+    --msv-font-weight-bold: #{$msv-font-weight-bold};
+    --msv-font-weight-normal: #{$msv-font-weight-normal};
+    --msv-font-weight-light: #{$msv-font-weight-light};
+    --msv-font-weight-heavy: #{$msv-font-weight-heavy};
+}

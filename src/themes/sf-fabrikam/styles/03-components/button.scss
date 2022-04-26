@@ -1,0 +1,51 @@
+// $msv-btn-icon-to-text-gap: 4px;
+// $msv-btn-border-radius: 2px;
+
+// .msc-btn {
+//     @include button-default();
+//     display: inline-block;
+//     border: 1px solid transparent;
+//     border-radius: $msv-btn-border-radius;
+//     font-family: $msv-primary-font-family;
+//     text-decoration: none;
+//     text-align: center;
+//     min-width: auto;
+
+//     &:not(:disabled) {
+//         cursor: pointer;
+//     }
+// }
+
+//$msv-btn-icon-to-text-gap: 4px;
+$msv-btn-border-radius: 0px;
+
+.msc-btn {
+    @include button-default();
+    display: inline-block;
+    // border: 1px solid transparent;
+    border-radius: $msv-btn-border-radius;
+    font-family: $msv-primary-font-family; //////////
+    text-decoration: none;
+    text-align: center;
+    min-width: auto;
+    display: inline-block;
+    vertical-align: middle;
+    font: inherit;
+    margin: 0;
+    cursor: pointer;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: all .3s ease-in-out;
+    color: #111;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    height: auto;
+    line-height: 30px;
+    padding: 9px 30px;
+
+
+    &:not(:disabled) {
+        cursor: pointer;
+    }
+}

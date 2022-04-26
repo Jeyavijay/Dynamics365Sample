@@ -1,0 +1,4599 @@
+{
+    "acceptCookiesAriaLabel": {
+        "value": "Accept cookies",
+        "_value.comment": "Aria label for the accept cookies button"
+    },
+    "acceptCookiesButtonText": {
+        "value": "Accept",
+        "_value.comment": "Text for the accept cookies button"
+    },
+    "accountAddressTileDescriptionForMultipleAddresses": {
+        "value": "You have {0} addresses.",
+        "_value.comment": "Text display as Account address description."
+    },
+    "accountAddressTileDescriptionForSingleAddress": {
+        "value": "You have {0} address.",
+        "_value.comment": "Text display as Account address description."
+    },
+    "accountCreditLabel": {
+        "value": "Account credit: ",
+        "_value.comment": "The label for the account credit"
+    },
+    "accountCreditVerbagePostfix": {
+        "value": "in account credit.",
+        "_value.comment": "Postfix for the customer's account credit verbage"
+    },
+    "accountCreditVerbagePrefix": {
+        "value": "You have",
+        "_value.comment": "Prefix for the customer's account credit verbage"
+    },
+    "accountInvoiceTileDescription": {
+        "value": "You have {0} in open invoices.",
+        "_value.comment": "The tile text that displays a summary of order templates."
+    },
+    "accountLoyaltyMemberSummary": {
+        "value": "You have {0} points available.",
+        "_value.comment": "Text display as summary when the customer is a loyalty member."
+    },
+    "accountLoyaltySummary": {
+        "value": "You have not signed up for our loyalty program",
+        "_value.comment": "Text display as summary when the customer is not a loyalty member."
+    },
+    "accountOrderTemplatesTileDescription": {
+        "value": "You have {0} order templates.",
+        "_value.comment": "The tile text that displays a summary of order templates."
+    },
+    "accountOrganizationUsersTileDescriptionForMultipleUsers": {
+        "value": "You have {0} organization users.",
+        "_value.comment": "Text display as summary for business partners."
+    },
+    "accountOrganizationUsersTileDescriptionForSingleUser": {
+        "value": "You have {0} organization user.",
+        "_value.comment": "Text display as summary for business partners."
+    },
+    "accountSectionHeading": {
+        "value": "Your account",
+        "_value.comment": "Heading for the page content"
+    },
+    "accountWishlistTileDescription": {
+        "value": "You have {0} items in the Wishlist.",
+        "_value.comment": "Text display as summary."
+    },
+    "addItemToOrderTemplateError": {
+        "value": "Unable to add item to order template",
+        "_value.comment": "For showing error message on adding item to order template"
+    },
+    "addItemToTemplateText": {
+        "value": "Add to template",
+        "_value.comment": "Text for the add a line to the template button"
+    },
+    "addItemToWishlistError": {
+        "value": "Unable to add item to wishlist",
+        "_value.comment": "For showing error message on adding item from wishlist"
+    },
+    "addLineModalLinkText": {
+        "value": "Add a line",
+        "_value.comment": "Text for the add a line modal link"
+    },
+    "addLineProductUnitOfMeasurePrefix": {
+        "value": "UOM:",
+        "_value.comment": "Text prefix for a product's unit price"
+    },
+    "addLineProductUnitPricePrefix": {
+        "value": "Unit price:",
+        "_value.comment": "Text prefix for a product's unit price"
+    },
+    "addOrderTemplateItemToBagButtonText": {
+        "value": "ADD TO CART",
+        "_value.comment": "Text for the add to bag button"
+    },
+    "addPaymentButtonLabel": {
+        "value": "Apply",
+        "_value.comment": "The label that is displayed on the button to pay with customer account"
+    },
+    "addSelectedToBagButtonText": {
+        "value": "Add selected to bag",
+        "_value.comment": "Text for the add to bag button"
+    },
+    "addTemplateToBagButtonText": {
+        "value": "Add template to bag",
+        "_value.comment": "Text for the add template to bag button"
+    },
+    "addToBagButtonText": {
+        "value": "ADD TO CART",
+        "_value.comment": "Text for the add to bag button"
+    },
+    "addToBagDialogHeaderText": {
+        "value": "Add to bag?",
+        "_value.comment": "Header message for the add selection to bag dialog"
+    },
+    "addToCartButtonText": {
+        "value": "ADD TO CART",
+        "_value.comment": "Text for the add to cart button"
+    },
+    "addToCartFailureMessage": {
+        "value": "Add to cart failed. Please refresh and retry",
+        "_value.comment": "Message to show when order template adding to cart have fails"
+    },
+    "addToCartProcessMessage": {
+        "value": "Adding to cart",
+        "_value.comment": "Message to show when order template adding to cart"
+    },
+    "addToCartSuccessMessage": {
+        "value": "Order template successfully added to cart",
+        "_value.comment": "Message to show when order template successfully added to cart"
+    },
+    "addToCartText": {
+        "value": "ADD TO CART",
+        "_value.comment": "Text to show on add to cart button"
+    },
+    "addToOrderTemplateButtonText": {
+        "value": "Add to order template",
+        "_value.comment": "Text for add to order template button"
+    },
+    "addToOrderTemplateButtonTooltip": {
+        "value": "This product cannot be added to order template due to custom pricing",
+        "_value.comment": "Tooltip for disabled add to order template button"
+    },
+    "addToOrderTemplateHeader": {
+        "value": "Add to order template",
+        "_value.comment": "Text for add to order template dialog header"
+    },
+    "addToOrderTemplateMessage": {
+        "value": "Added to your order template",
+        "_value.comment": "Text for showing for adding item to your order template message"
+    },
+    "addToTemplateButtonText": {
+        "value": "Add to template",
+        "_value.comment": "Text for add to order template dialog button"
+    },
+    "addToTemplateConfirmation": {
+        "value": "{count} of {productAndDimensions} have been added to template.",
+        "_value.comment": "Confirmation of products added to the order template"
+    },
+    "addToTemplateDuplicateError": {
+        "value": "This product variant already exists in this order template.",
+        "_value.comment": "Error message for API error when products added to the order template"
+    },
+    "addToTemplateGenericError": {
+        "value": "There was an error adding this item to the order template.",
+        "_value.comment": "Error message for API error when products added to the order template"
+    },
+    "addToWishlistButtonText": {
+        "value": "Move to wishlist",
+        "_value.comment": "Label for Move to wishlist button"
+    },
+    "addToWishlistMessage": {
+        "value": "Added to your wishlist",
+        "_value.comment": "Text for showing for adding item to your wishlist message"
+    },
+    "addedQuantityText": {
+        "value": "Quantity: {0}",
+        "_value.comment": "Label to display the quantity for product details"
+    },
+    "addedToCartFailureMessage": {
+        "value": "Add to cart failed. Please refresh and retry",
+        "_value.comment": "Message to show when add to cart fails"
+    },
+    "addedToCartSuccessMessage": {
+        "value": "Added to your cart",
+        "_value.comment": "Added to cart friendly message"
+    },
+    "additionalInformationDefaultHeading": {
+        "value": "Additional information",
+        "_value.comment": "Default heading shown for the additional information section."
+    },
+    "additionalInformationSubmitButtonText": {
+        "value": "Submit",
+        "_value.comment": "Default Text shown on the additional information submit button."
+    },
+    "addressAddButtonAriaLabel": {
+        "value": "Add address",
+        "_value.comment": "Add button aria label"
+    },
+    "addressAddButtonText": {
+        "value": "Add address",
+        "_value.comment": "Add button text"
+    },
+    "addressAddressTypeValueLabel": {
+        "value": "Address type *",
+        "_value.comment": "Label for the Address Type field"
+    },
+    "addressAddressTypeValueLabelOptional": {
+        "value": "Address type ",
+        "_value.comment": "Label for the Address Type field (Optional)"
+    },
+    "addressBillingAddressHeading": {
+        "value": "Billing address",
+        "_value.comment": "Heading"
+    },
+    "addressBuildingComplimentLabel": {
+        "value": "Building compliment",
+        "_value.comment": "Label for the building compliment field"
+    },
+    "addressBuildingComplimentRequiredErrorMessage": {
+        "value": "Building compliment is required",
+        "_value.comment": "Error message to display when building compliment is not provided"
+    },
+    "addressCancelButtonAriaLabel": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button aria label"
+    },
+    "addressCancelButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button text"
+    },
+    "addressChangeCheckboxAriaLabel": {
+        "value": "Select address",
+        "_value.comment": "Aria Label address change checkbox"
+    },
+    "addressCityLabel": {
+        "value": "City *",
+        "_value.comment": "Label for the city field"
+    },
+    "addressCityLabelOptional": {
+        "value": "City",
+        "_value.comment": "Label for the city field (Optional)"
+    },
+    "addressCityRequiredErrorMessage": {
+        "value": "City is required",
+        "_value.comment": "Error message to display when city is not provided"
+    },
+    "addressCountryOKSMCodeRULabel": {
+        "value": "Countryoksmcode",
+        "_value.comment": "Label for the countryoksmcode field"
+    },
+    "addressCountryOKSMCodeRURequiredErrorMessage": {
+        "value": "Countryoksmcode field is required",
+        "_value.comment": "Error message to display when countryoksmcode is not provided"
+    },
+    "addressCountyLabel": {
+        "value": "County",
+        "_value.comment": "Label for the County field"
+    },
+    "addressCountyLabelOptional": {
+        "value": "County",
+        "_value.comment": "Label for the County field  (Optional)"
+    },
+    "addressCountyRequiredErrorMessage": {
+        "value": "County is required",
+        "_value.comment": "Error message to display when county is not provided"
+    },
+    "addressDistrictLabel": {
+        "value": "District",
+        "_value.comment": "Label for the District field"
+    },
+    "addressDistrictNameLabel": {
+        "value": "District",
+        "_value.comment": "Label for the District field"
+    },
+    "addressDistrictRequiredErrorMessage": {
+        "value": "District is required",
+        "_value.comment": "Error message to display when district is not provided"
+    },
+    "addressEditButtonAriaLabel": {
+        "value": "Edit {addressName} address",
+        "_value.comment": "Edit button aria label"
+    },
+    "addressEditButtonText": {
+        "value": "Edit",
+        "_value.comment": "Edit button text"
+    },
+    "addressEmptyListAddressMessage": {
+        "value": "No addresses are present. Please add one.",
+        "_value.comment": "Generic message to show in list address component when no addresses are present"
+    },
+    "addressErrorMessageTitle": {
+        "value": "Error message",
+        "_value.comment": "Localized text for error message title"
+    },
+    "addressFlatRULabel": {
+        "value": "Flat",
+        "_value.comment": "Label for the flat field"
+    },
+    "addressFlatRURequiredErrorMessage": {
+        "value": "Flat is required",
+        "_value.comment": "Error message to display when flat is not provided"
+    },
+    "addressGenericErrorMessage": {
+        "value": "Something went wrong. Please try again later",
+        "_value.comment": "Generic error message for Address module"
+    },
+    "addressHouseRULabel": {
+        "value": "House",
+        "_value.comment": "Label for the house field"
+    },
+    "addressHouseRURequiredErrorMessage": {
+        "value": "House is required",
+        "_value.comment": "Error message to display when house is not provided"
+    },
+    "addressIsPrimaryLabel": {
+        "value": "Set as primary address",
+        "_value.comment": "Label for the IsPrimary field"
+    },
+    "addressNameLabel": {
+        "value": "Name *",
+        "_value.comment": "Label for the Name field"
+    },
+    "addressNameLabelOptional": {
+        "value": "Name",
+        "_value.comment": "Label for the Name field (Optional)"
+    },
+    "addressNameRequiredErrorMessage": {
+        "value": "Name is required",
+        "_value.comment": "Error message to display when name is not provided"
+    },
+    "addressPhoneFormatErrorMessage": {
+        "value": "Only numeric characters, spaces, +, - and x are valid entries",
+        "_value.comment": "Error message to display when phone format is wrong"
+    },
+    "addressPhoneLabel": {
+        "value": "Phone *",
+        "_value.comment": "Label for the phone field"
+    },
+    "addressPhoneLabelOptional": {
+        "value": "Phone",
+        "_value.comment": "Label for the phone field"
+    },
+    "addressPhoneRequiredErrorMessage": {
+        "value": "Phone is required",
+        "_value.comment": "Error message to display when phone is not provided"
+    },
+    "addressPostboxLabel": {
+        "value": "Post box",
+        "_value.comment": "Label for the post box field"
+    },
+    "addressPostboxRequiredErrorMessage": {
+        "value": "Post box is required",
+        "_value.comment": "Error message to display when post box is not provided"
+    },
+    "addressPrimaryButtonAriaLabel": {
+        "value": "Set {addressName} address as your primary address",
+        "_value.comment": "Primay button aria label"
+    },
+    "addressPrimaryButtonText": {
+        "value": "Set as primary address",
+        "_value.comment": "Primay button text"
+    },
+    "addressRemoveButtonAriaLabel": {
+        "value": "Remove {addressName} address",
+        "_value.comment": "Remove button aria label"
+    },
+    "addressRemoveButtonText": {
+        "value": "Remove",
+        "_value.comment": "Remove button text"
+    },
+    "addressSameAsShippingAddressAriaLabel": {
+        "value": "Same as shipping address",
+        "_value.comment": "Same as shipping address aria label"
+    },
+    "addressSameAsShippingAddressText": {
+        "value": "Same as shipping address",
+        "_value.comment": "Same as shipping address text"
+    },
+    "addressSaveButtonAriaLabel": {
+        "value": "Save",
+        "_value.comment": "Save button aria label"
+    },
+    "addressSaveButtonText": {
+        "value": "Save",
+        "_value.comment": "Save button text"
+    },
+    "addressStateDefaultSelectionText": {
+        "value": "Select state",
+        "_value.comment": "Default selection text for state drop down"
+    },
+    "addressStateLabel": {
+        "value": "State *",
+        "_value.comment": "Label for the State field"
+    },
+    "addressStateLabelOptional": {
+        "value": "State",
+        "_value.comment": "Label for the State field"
+    },
+    "addressStateRequiredErrorMessage": {
+        "value": "State is required",
+        "_value.comment": "Error message to display when zip code is not provided"
+    },
+    "addressStreetLabel": {
+        "value": "Street *",
+        "_value.comment": "Label for the Street field"
+    },
+    "addressStreetLabelOptional": {
+        "value": "Street",
+        "_value.comment": "Label for the Street field"
+    },
+    "addressStreetNumberLabel": {
+        "value": "Street number",
+        "_value.comment": "Label for the street number field"
+    },
+    "addressStreetNumberRequiredErrorMessage": {
+        "value": "Street number is required",
+        "_value.comment": "Error message to display when street number is not provided"
+    },
+    "addressStreetRequiredErrorMessage": {
+        "value": "Street is required",
+        "_value.comment": "Error message to display when street is not provided"
+    },
+    "addressThreeLetterISORegionNameLabel": {
+        "value": "Country *",
+        "_value.comment": "Label for the country field"
+    },
+    "addressThreeLetterISORegionNameLabelOptional": {
+        "value": "Country",
+        "_value.comment": "Label for the country field (Optional)"
+    },
+    "addressThreeLetterISORegionNameRequiredErrorMessage": {
+        "value": "Country is required",
+        "_value.comment": "Error message to display when country is not provided"
+    },
+    "addressTitle": {
+        "value": "Billing Address",
+        "_value.comment": "Text for billing address section"
+    },
+    "addressZipCodeLabel": {
+        "value": "Zip code *",
+        "_value.comment": "Label for the zipcode field"
+    },
+    "addressZipCodeLabelOptional": {
+        "value": "Zip code",
+        "_value.comment": "Label for the zipcode field (Optional)"
+    },
+    "addressZipCodeRequiredErrorMessage": {
+        "value": "Zip code is required",
+        "_value.comment": "Error message to display when zip code is not provided"
+    },
+    "adjustedPointsLabel": {
+        "value": "Adjusted",
+        "_value.comment": "Label for adjusted points"
+    },
+    "allCategoryMenuText": {
+        "value": "All",
+        "_value.comment": "Menu text for all categories"
+    },
+    "allRatinsFilterByOptionText": {
+        "value": "All ratings",
+        "_value.comment": "Text which is shown in filter by dropdown to show review with all ratings."
+    },
+    "altTextForSeeMoreButtonWithProductName": {
+        "value": "{buttonText} {productName}",
+        "_value.comment": "Alternative text for See More button with Product Name"
+    },
+    "amountCoveredLabel": {
+        "value": "Amount covered:",
+        "_value.comment": "Amount covered label"
+    },
+    "apiGenericErrorMessage": {
+        "value": "There was an error retrieving your account balance.",
+        "_value.comment": "API error notification text"
+    },
+    "appliedCustomerAccountPaymentLabel": {
+        "value": "Applied:",
+        "_value.comment": "The label for the applied customer account line in summary view"
+    },
+    "appliedPromoCodeHeadingText": {
+        "value": "Applied promo codes",
+        "_value.comment": "header for applied promo code"
+    },
+    "applyCheckoutLoyaltyPaymentText": {
+        "value": "Apply",
+        "_value.comment": "Text for button that applies the loyalty payment"
+    },
+    "applyGiftCardButton": {
+        "value": "Apply",
+        "_value.comment": "Label for apply gift card button"
+    },
+    "ariaLabelForDismissButton": {
+        "value": "Cancel",
+        "_value.comment": "Aria label for the Carousel Dismiss Button"
+    },
+    "ariaLabelForSlide": {
+        "value": "Slide {0}",
+        "_value.comment": "Aria label for the Carousel Indicators"
+    },
+    "ariaLabelText": {
+        "value": "Delivery options",
+        "_value.comment": "Aria label for form"
+    },
+    "asteriskAfterLabel": {
+        "value": "{0} *",
+        "_value.comment": "Asterisk for mandate fields"
+    },
+    "attributeInputMandatoryErrorText": {
+        "value": "{0} should not be empty",
+        "_value.comment": "Attribute input mandatory error text."
+    },
+    "attributeInputRangeErrorText": {
+        "value": "{0} should be in the range of {1}-{2}",
+        "_value.comment": "Attribute input range error text."
+    },
+    "attributeInputStringMaxLengthErrorText": {
+        "value": "{0} exceeds maximum limit of {1} characters",
+        "_value.comment": "Attribute input string maximum length error text."
+    },
+    "attributeInputTypeErrorText": {
+        "value": "{0} should be of {1} type",
+        "_value.comment": "Attribute input type error text."
+    },
+    "attributeInputValueExceedsMaximumErrorText": {
+        "value": "{0} exceeds maximum limit of {1}",
+        "_value.comment": "Attribute value exceeds maxmium error text."
+    },
+    "attributeInputValueExceedsMinimumErrorText": {
+        "value": "{0} exceeds minimum limit of {1}",
+        "_value.comment": "Attribute value exceeds minimum error text."
+    },
+    "attributeToggleButtonAriaLabel": {
+        "value": "Enable {0}",
+        "_value.comment": "Attribute toggle button aria label."
+    },
+    "attributesCancelButtonAriaLabel": {
+        "value": "Cancel",
+        "_value.comment": "Attributes cancel button aria label."
+    },
+    "attributesCancelButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Attributes cancel button text."
+    },
+    "attributesEditButtonAriaLabel": {
+        "value": "Edit",
+        "_value.comment": "Attributes edit button aria label."
+    },
+    "attributesEditButtonText": {
+        "value": "Edit",
+        "_value.comment": "Attributes edit button text."
+    },
+    "attributesSaveButtonAriaLabel": {
+        "value": "Save",
+        "_value.comment": "Attributes save button aria label."
+    },
+    "attributesSaveButtonText": {
+        "value": "Save",
+        "_value.comment": "Attributes save button text."
+    },
+    "attributesSaveExceptionMessage": {
+        "value": "Something went wrong, please try again.",
+        "_value.comment": "Attributes save exception message."
+    },
+    "autoSuggestFoundMessage": {
+        "value": "Autosuggest results are available",
+        "_value.comment": "Autosuggest response message for aria label"
+    },
+    "autoSuggestResultLoadingMessage": {
+        "value": "Loading...",
+        "_value.comment": "Autosuggest result loading message"
+    },
+    "availabilityText": {
+        "value": "Availability",
+        "_value.comment": "This field is to specify availability text"
+    },
+    "availableCreditLabel": {
+        "value": "Total available credit",
+        "_value.comment": "Label for the customer's available credit"
+    },
+    "availablePointsAriaLabel": {
+        "value": "Available loyalty points",
+        "_value.comment": "AriaLabel to display avaialble loyalty points"
+    },
+    "availablePointsLabel": {
+        "value": "Total available points",
+        "_value.comment": "Label to display avaialble loyalty points"
+    },
+    "averageRatingAriaLabel": {
+        "value": "Ratings and reviews section. Average {0} of {1} stars",
+        "_value.comment": "The aria label used for the average rating value"
+    },
+    "b2bRequestsAccountStatementDetails": {
+        "value": "From {0} to {1}",
+        "_value.comment": "Display string for the account statement details"
+    },
+    "b2bRequestsDescriptionColumn": {
+        "value": "Request details",
+        "_value.comment": "Column header for the description column"
+    },
+    "b2bRequestsInvoiceCopyDetails": {
+        "value": "Invoice id: {0}",
+        "_value.comment": "Display string for the invoice request details"
+    },
+    "b2bRequestsNameDisplay": {
+        "value": "{0} {1}",
+        "_value.comment": "Name diplay format for showing which user made the request. {0} is first name. {1} is last name."
+    },
+    "b2bRequestsNextText": {
+        "value": "next",
+        "_value.comment": "Display for the button that lets you see the next pages of b2b requests"
+    },
+    "b2bRequestsNumberOfItems": {
+        "value": "({0} items)",
+        "_value.comment": "Display string for the number of items"
+    },
+    "b2bRequestsNumberOfItemsSingular": {
+        "value": "({0} item)",
+        "_value.comment": "Display string for the number of items, if there is only one item"
+    },
+    "b2bRequestsPreviousText": {
+        "value": "previous",
+        "_value.comment": "Display for the button that lets you see the previous pages of b2b requests"
+    },
+    "b2bRequestsRequestDateColumn": {
+        "value": "Request date",
+        "_value.comment": "Column header for the request date column"
+    },
+    "b2bRequestsStatusColumn": {
+        "value": "Status",
+        "_value.comment": "Column header for the status column"
+    },
+    "b2bRequestsStatusError": {
+        "value": "Error",
+        "_value.comment": "Display string for requests that had an error being processed"
+    },
+    "b2bRequestsStatusProcessed": {
+        "value": "Processed",
+        "_value.comment": "Display string for processed requests"
+    },
+    "b2bRequestsStatusRequested": {
+        "value": "Requested",
+        "_value.comment": "Display string for sent requests"
+    },
+    "b2bRequestsTypeAddUser": {
+        "value": "Add user",
+        "_value.comment": "Display string for add user requests"
+    },
+    "b2bRequestsTypeColumn": {
+        "value": "Request type",
+        "_value.comment": "Column header and id for the request type column"
+    },
+    "b2bRequestsTypeCreateProspect": {
+        "value": "Create prospect",
+        "_value.comment": "Display string for create prospect requests"
+    },
+    "b2bRequestsTypeDeleteUser": {
+        "value": "Delete user",
+        "_value.comment": "Display string for delete user requests"
+    },
+    "b2bRequestsTypeEditUser": {
+        "value": "Edit user",
+        "_value.comment": "Display string for edit user requests"
+    },
+    "b2bRequestsTypeRequestAccountStatement": {
+        "value": "Request account statement",
+        "_value.comment": "Display string for account statement requests"
+    },
+    "b2bRequestsTypeRequestInvoiceCopy": {
+        "value": "Request invoice copy",
+        "_value.comment": "Display string for request invoice copy requests"
+    },
+    "b2bRequestsTypeUnknown": {
+        "value": "Unknown",
+        "_value.comment": "Display string for unknown requests"
+    },
+    "b2bRequestsUserColumn": {
+        "value": "User",
+        "_value.comment": "Column header and id for the user/name column"
+    },
+    "backButtonAriaLabel": {
+        "value": "Back",
+        "_value.comment": "aria label for back button"
+    },
+    "backButtonText": {
+        "value": "Back to products",
+        "_value.comment": "Text for the back to products button"
+    },
+    "backToResultsText": {
+        "value": "Back to results",
+        "_value.comment": "Button text to be displayed to go back to previous page"
+    },
+    "backToShopping": {
+        "value": "Back to shopping",
+        "_value.comment": "Back to shopping label"
+    },
+    "backToShoppingButtonTitle": {
+        "value": "Back to shopping",
+        "_value.comment": "Label for back to shopping button"
+    },
+    "backToShoppingText": {
+        "value": "Back to shopping",
+        "_value.comment": "Text for back to shopping button"
+    },
+    "balanceCheckButton": {
+        "value": "Balance check",
+        "_value.comment": "Label for balance check button"
+    },
+    "balanceOwedLabel": {
+        "value": "Balance owed",
+        "_value.comment": "Label for the customer's balance owed"
+    },
+    "bannerText": {
+        "value": "Promotion banner",
+        "_value.comment": "Additional text for promo banner"
+    },
+    "barItemAriaLabel": {
+        "value": "{0} stars, {1}% of users gave {0} stars",
+        "_value.comment": "The aria label used for the histgram values"
+    },
+    "bopisSelectAStore": {
+        "value": "Select A Store",
+        "_value.comment": "Header for BOPIS (Buy Online Pickup In Store) dialog"
+    },
+    "businessUserActionButtonText": {
+        "value": "Actions",
+        "_value.comment": "Text for the action button"
+    },
+    "businessUserActionErrorText": {
+        "value": "Sorry we are unable to perform that action at this moment, please try again later.",
+        "_value.comment": "Error message that shows when API fails."
+    },
+    "businessUserActiveStatusText": {
+        "value": "Active",
+        "_value.comment": "Text for to show that BusinessUser is active."
+    },
+    "businessUserAddUserButtonText": {
+        "value": "Add a user",
+        "_value.comment": "Label of the button used to add a user."
+    },
+    "businessUserAddUserFormHeadingText": {
+        "value": "Add user",
+        "_value.comment": "Add user form Heading"
+    },
+    "businessUserAllFieldsRequiredMessage": {
+        "value": "*All fields are required to add a user",
+        "_value.comment": "Message to display when all input fields are required."
+    },
+    "businessUserCancelButtonArialabel": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button aria label"
+    },
+    "businessUserCancelButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button text"
+    },
+    "businessUserCancelRemoveUserButtonArialabel": {
+        "value": "Cancel remove User",
+        "_value.comment": "Cancel remove user aria label"
+    },
+    "businessUserCancelRemoveUserButtonText": {
+        "value": "No",
+        "_value.comment": "Cancel remove user button text"
+    },
+    "businessUserDeleteButtonText": {
+        "value": "Delete",
+        "_value.comment": "Text for the remove button"
+    },
+    "businessUserEditButtonText": {
+        "value": "Edit",
+        "_value.comment": "Text for the edit button"
+    },
+    "businessUserEditUserFormHeadingText": {
+        "value": "Edit user",
+        "_value.comment": "Edit user form heading"
+    },
+    "businessUserEmailAddressLabelText": {
+        "value": "Email address",
+        "_value.comment": "Text display as label for email address textbox."
+    },
+    "businessUserEmptyListMessage": {
+        "value": "No users",
+        "_value.comment": "Text to show when there are no users in the organzization"
+    },
+    "businessUserErrorGettingUsersMessage": {
+        "value": "Sorry we are unable to load your organization at this moment, please try again later.",
+        "_value.comment": "Text for the error message while getting users list"
+    },
+    "businessUserErrorUpdatingUsersMessage": {
+        "value": "Sorry we are unable to edit/remove this user, please try again later.",
+        "_value.comment": "Text for the error message while updating a user."
+    },
+    "businessUserFieldIncorrectErrorText": {
+        "value": "One or more fields are filled out incorrectly. Please check your entries and try again.",
+        "_value.comment": "Field incorrect error message."
+    },
+    "businessUserFirstNameLabelText": {
+        "value": "First name",
+        "_value.comment": "Text display as label for first name textbox."
+    },
+    "businessUserFirstNameMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for first name."
+    },
+    "businessUserLastNameLabelText": {
+        "value": "Last name",
+        "_value.comment": "Text display as label for last name textbox."
+    },
+    "businessUserLastNameMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for last name."
+    },
+    "businessUserLoadingMessage": {
+        "value": "Loading...",
+        "_value.comment": "Text to show while the users list is loading"
+    },
+    "businessUserPaginationAriaLabel": {
+        "value": "Page navigation example",
+        "_value.comment": "Text for pagination aria label"
+    },
+    "businessUserPaginationNextButtonText": {
+        "value": "Next",
+        "_value.comment": "Pagination next button text message."
+    },
+    "businessUserPaginationPreviousButtonText": {
+        "value": "Previous",
+        "_value.comment": "Pagination previous button text message."
+    },
+    "businessUserPendingStatusText": {
+        "value": "Pending",
+        "_value.comment": "Text for to show that BusinessUser is pending."
+    },
+    "businessUserRemoveModalDescription": {
+        "value": "Are you sure you want to remove the user from the organization user list?",
+        "_value.comment": "Description text for the Delete user pop up."
+    },
+    "businessUserRemoveModalHeaderText": {
+        "value": "Remove a user",
+        "_value.comment": "Heading text for the Delete user pop up."
+    },
+    "businessUserRemoveUserButtonArialabel": {
+        "value": "Remove User",
+        "_value.comment": "Remove user aria label"
+    },
+    "businessUserRemoveUserButtonText": {
+        "value": "Yes, remove",
+        "_value.comment": "Remove user button text"
+    },
+    "businessUserRemovedStatusText": {
+        "value": "Removed",
+        "_value.comment": "Text for to show that BusinessUser is disabled."
+    },
+    "businessUserRequiredFieldMissingSummaryError": {
+        "value": "A required field is missing. Please fill out all required fields and try again.",
+        "_value.comment": "Field missing error summary."
+    },
+    "businessUserSaveButtonArialabel": {
+        "value": "Save",
+        "_value.comment": "Save button aria label"
+    },
+    "businessUserSaveButtonText": {
+        "value": "Save",
+        "_value.comment": "Save button text"
+    },
+    "businessUserSelectCheckBoxAriaLabelText": {
+        "value": "Select business user",
+        "_value.comment": "Aria label for select business user check box"
+    },
+    "businessUserSelectedUserDisplayName": {
+        "value": "{firstName} {lastName}",
+        "_value.comment": "The display format of the selected user's name"
+    },
+    "businessUserSpendingLimitLabelText": {
+        "value": "Spending limit",
+        "_value.comment": "Label for the spendingLimit input field"
+    },
+    "businessUserTableEmailHeadingText": {
+        "value": "Email",
+        "_value.comment": "Text for the heading row of the Email column"
+    },
+    "businessUserTableNameHeadingText": {
+        "value": "User name",
+        "_value.comment": "Text for the heading row of the Name column"
+    },
+    "businessUserTableSpendingLimitHeadingText": {
+        "value": "Spending limit",
+        "_value.comment": "Text for the heading row of the SpendingLimit column"
+    },
+    "businessUserTableStatusHeadingText": {
+        "value": "Status",
+        "_value.comment": "Text for the heading row of the Status column"
+    },
+    "businessUserViewModalHeaderText": {
+        "value": "User details",
+        "_value.comment": "Heading text for the View User Details pop up."
+    },
+    "businessUserViewUserButtonText": {
+        "value": "View details",
+        "_value.comment": "Label of the button used to view user details."
+    },
+    "buyBoxContinueShoppingText": {
+        "value": "Continue shopping",
+        "_value.comment": "Text to show on Button to continue shopping"
+    },
+    "buyBoxGoToCartText": {
+        "value": "View bag and checkout",
+        "_value.comment": "Text to show on Button to view cart"
+    },
+    "buyBoxHeaderMessageText": {
+        "value": " added to bag",
+        "_value.comment": "Text to show if a item is added to the bag"
+    },
+    "buyBoxMultiLineItemFormatText": {
+        "value": "{0} items",
+        "_value.comment": "Text to show if multiple items added"
+    },
+    "buyBoxSingleItemText": {
+        "value": "1 item",
+        "_value.comment": "Text to show if one item is added"
+    },
+    "buyItAgainAriaLabel": {
+        "value": "Buy it again for {productName}",
+        "_value.comment": "text for buy it again aria label"
+    },
+    "buyItAgainLabel": {
+        "value": "Buy it again",
+        "_value.comment": "text for buy it again link"
+    },
+    "buyboxErrorMessageHeader": {
+        "value": "There are some issues",
+        "_value.comment": "Header text for the error message region"
+    },
+    "buyboxKeyInPriceLabelHeading": {
+        "value": "Custom amount",
+        "_value.comment": "Text to show for customers to enter a custom amount for a product."
+    },
+    "callCenterChannelNameText": {
+        "value": "Call Center purchase",
+        "_value.comment": "String to show call center channel name"
+    },
+    "cancelBtnAriaLabel": {
+        "value": "Cancel",
+        "_value.comment": "Text for cancel button aria label"
+    },
+    "cancelBtnLabel": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button label"
+    },
+    "cancelButtonAriaLabel": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button aria label."
+    },
+    "cancelButtonArialabel": {
+        "value": "Cancel",
+        "_value.comment": "Cancel button aria label"
+    },
+    "cancelButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Localized text for the cancel button for Payment instrument module"
+    },
+    "cancelDuplicateItemsButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Error dialog override quantity button text when order template already has the same item added"
+    },
+    "cancelLabel": {
+        "value": "Cancel",
+        "_value.comment": "The label for the cancel button"
+    },
+    "cancelLoyaltyTermsText": {
+        "value": "Cancel",
+        "_value.comment": "The label shown on the loyalty terms modal cancel button"
+    },
+    "cancelNewOrderTemplateCreationButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Text for create order template dialog cancel button"
+    },
+    "cancelOrderTemplateCreationButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Text for canceling adding to order template dialog"
+    },
+    "cancelReportReviewText": {
+        "value": "Cancel",
+        "_value.comment": "The label which is shown button which cancels reporting a review"
+    },
+    "captionText": {
+        "value": "We’re expanding our pick-up-in-store service to more locations every day.",
+        "_value.comment": "caption text"
+    },
+    "cardNumberLabel": {
+        "value": "Card ending in",
+        "_value.comment": "Localized text for the last 4 digit of the card"
+    },
+    "cardTitle": {
+        "value": "Payment information",
+        "_value.comment": "Card display title"
+    },
+    "cardTypeErrorMessage": {
+        "value": "The specified card type is not supported.",
+        "_value.comment": "Localized error message for Payment card type not found"
+    },
+    "carryOutSalesLines": {
+        "value": "Purchased",
+        "_value.comment": "Customer carry out"
+    },
+    "cartLabel": {
+        "value": "Shopping bag, ({0}) items",
+        "_value.comment": "string to be shown for cart or shopping bag tooltip"
+    },
+    "cartLoadingErrorMessage": {
+        "value": "Sorry we are unable to load your cart at this moment, please try again later.",
+        "_value.comment": "String that corresponds to the error message that is shown when essential data actions fail"
+    },
+    "cartQtyLabel": {
+        "value": "({0})",
+        "_value.comment": "string to be shown for cart item quantity"
+    },
+    "cartRemoveButtonAriaLabel": {
+        "value": "Remove {productName}",
+        "_value.comment": "Aria label for the remove button"
+    },
+    "cartTitle": {
+        "value": "Shopping bag",
+        "_value.comment": "Cart title"
+    },
+    "cashUsedLabel": {
+        "value": "Cash",
+        "_value.comment": "Cash used label"
+    },
+    "categoryLinkAriaLabel": {
+        "value": "Go To:",
+        "_value.comment": "Aria-Label text for links to other categories within the hierarchy"
+    },
+    "categorySuggestionHeading": {
+        "value": "Search {0} in categories",
+        "_value.comment": "Category suggestion type search results list heading title"
+    },
+    "changeBtnLabel": {
+        "value": "Change",
+        "_value.comment": "Change button label"
+    },
+    "changeEmailButtonAriaLabel": {
+        "value": "Change e-mail",
+        "_value.comment": "Change e-mail button aria label."
+    },
+    "changeEmailButtonText": {
+        "value": "Change e-mail",
+        "_value.comment": "Change e-mail button text."
+    },
+    "changePaymentButtonText": {
+        "value": "Change",
+        "_value.comment": "Localized text for the change payment button for Payment instrument module"
+    },
+    "changeStoreDisplayText": {
+        "value": "Change store",
+        "_value.comment": "String that corresponds to the change store display text"
+    },
+    "checkboxAriaLabel": {
+        "value": "Terms and conditions have to be accepted to proceed further.",
+        "_value.comment": "Aria label for term and condition checkbox"
+    },
+    "checkoutButtonTitle": {
+        "value": "Checkout",
+        "_value.comment": "Label for checkout button"
+    },
+    "checkoutOutOfStockErrorMessage": {
+        "value": "Some of the items do not have enough stock. Please adjust the quantity in your cart.",
+        "_value.comment": "Out of stock while checking out error message"
+    },
+    "checkoutStepTitleFormat": {
+        "value": "{stepNumber}. {stepTitle}",
+        "_value.comment": "Title of shipping address section"
+    },
+    "choiceAriaLabel": {
+        "value": "Double tap to remove filter.",
+        "_value.comment": "Text to show for choice summary aria label"
+    },
+    "choiceFormat": {
+        "value": "{1}",
+        "_value.comment": "Format of choice to display, where {0} is the name of the refiner and {1} is the refiner value"
+    },
+    "choiceRangeValueFormat": {
+        "value": "{0}-{1}",
+        "_value.comment": "Format of choice value to display when it specifies a range, where {0} is the minimum value and {1} is the maximum value"
+    },
+    "choiceSummaryLabel": {},
+    "clearAllText": {
+        "value": "Clear all",
+        "_value.comment": "Text on the button that clears all selected choices, often Clear All or Reset Filters"
+    },
+    "closeAriaLabel": {
+        "value": "Remove filter.",
+        "_value.comment": "Text to show for remove filter aria label"
+    },
+    "closeButtonAriaLabel": {
+        "value": "Close promo-banner",
+        "_value.comment": "Text for close button aria label"
+    },
+    "closeButtonLabel": {
+        "value": "Close",
+        "_value.comment": "Label for close button"
+    },
+    "closeNotificationLabel": {
+        "value": "Close",
+        "_value.comment": "Aria Label for close button of notification"
+    },
+    "closeWindowButtonText": {
+        "value": "Close",
+        "_value.comment": "Text for the close modal window button of adding order template"
+    },
+    "closedCaptionLabel": {
+        "value": "Closed caption",
+        "_value.comment": "Label for the closed caption on video player controls"
+    },
+    "codeExpiredError": {
+        "value": "That code is expired. Please request a new code.",
+        "_value.comment": "Error to display when code expired."
+    },
+    "collapseAllText": {
+        "value": "Close all",
+        "_value.comment": "Collapse all text"
+    },
+    "columnSortAriaLabel": {
+        "value": "Sort by {0}",
+        "_value.comment": "Aria label for sorting button"
+    },
+    "commentLabel": {
+        "value": "Comment",
+        "_value.comment": "Text display as label for comment textbox."
+    },
+    "commentMaxLength": {
+        "value": "200",
+        "_value.comment": "Maximum number for character is allowed for comment."
+    },
+    "companyAddressLabel": {
+        "value": "Company address",
+        "_value.comment": "Text display as label for company address textbox."
+    },
+    "companyAddressMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for company address."
+    },
+    "companyLabel": {
+        "value": "Company *",
+        "_value.comment": "Text display as label for company name textbox."
+    },
+    "companyMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for company name."
+    },
+    "companySizeLabel": {
+        "value": "Company size",
+        "_value.comment": "Text display as label for company size textbox."
+    },
+    "companySizeMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for company size."
+    },
+    "conditionsText": {
+        "value": "*Before applicable taxes",
+        "_value.comment": "String associated with Legal disclaimer for order total display text"
+    },
+    "configString": {
+        "value": "Configuration",
+        "_value.comment": "Configuration text"
+    },
+    "confirmBtnLabel": {
+        "value": "Confirm",
+        "_value.comment": "Confirm button label"
+    },
+    "confirmPasswordLabelText": {
+        "value": "Confirm password *",
+        "_value.comment": "Text display as label for confirm password textbox."
+    },
+    "confirmPaymentText": {
+        "value": "Confirm payment",
+        "_value.comment": "Text for the checkout button to confirm payment for invoices"
+    },
+    "confirmationIdLabel": {
+        "value": "Confirmation ID:",
+        "_value.comment": "Confirmation ID label"
+    },
+    "contactText": {
+        "value": "Contact",
+        "_value.comment": "This field is to specify contact text"
+    },
+    "continueButtonAriaLabel": {
+        "value": "Continue",
+        "_value.comment": "Continue button aria label."
+    },
+    "continueButtonText": {
+        "value": "Continue",
+        "_value.comment": "Continue button text."
+    },
+    "continueShoppingButtonText": {
+        "value": "Continue shopping",
+        "_value.comment": "Continue shopping on item added to order template dialog"
+    },
+    "cookieConsentRequiredMessage": {
+        "value": "Cookie consent required to load this content. See cookie banner on the page for more details.",
+        "_value.comment": "Localized text for cookie consent required message"
+    },
+    "createAnOrderTemplateButtonText": {
+        "value": "Create an order template",
+        "_value.comment": "Text for creating an order template button"
+    },
+    "createNewOrderTemplateButtonText": {
+        "value": "Create new",
+        "_value.comment": "Text for create order template dialog create new button"
+    },
+    "createNewTemplateButtonText": {
+        "value": "Create an order template",
+        "_value.comment": "Text for the create new template button"
+    },
+    "createOrderTemplateButtonText": {
+        "value": "Create",
+        "_value.comment": "Text for create order template dialog create button"
+    },
+    "createOrderTemplateDescription": {
+        "value": "Order templates will be saved to your account. You can reuse them in the future to speed up the checkout process. Create an order template and add this item to it.",
+        "_value.comment": "Text for create order template dialog description"
+    },
+    "createOrderTemplateFromCartButton": {
+        "value": "Save all items to order template",
+        "_value.comment": "Label for creating template from cart button"
+    },
+    "createOrderTemplateFromCartButtonTooltip": {
+        "value": "Products on this shopping bag cannot be added to order template due to custom pricing",
+        "_value.comment": "Tooltip for disabled creating template from cart button"
+    },
+    "createOrderTemplateHeader": {
+        "value": "Create an order template",
+        "_value.comment": "Text for create order template dialog header"
+    },
+    "creditCardEndingLabel": {
+        "value": "card ending in",
+        "_value.comment": "Credit card ending label"
+    },
+    "creditDetailsSectionLabel": {
+        "value": "Current order preview",
+        "_value.comment": "The label for the credit details section"
+    },
+    "creditExcessLabel": {
+        "value": "Credit excess",
+        "_value.comment": "Label for the customer's excess credit"
+    },
+    "creditSummarySectionHeading": {
+        "value": "Account credit summary",
+        "_value.comment": "Heading for the customer's credit summary"
+    },
+    "currentPriceText": {
+        "value": "Current price",
+        "_value.comment": "String that corresponds to the current price screen reader text"
+    },
+    "customerAccountUsedLabel": {
+        "value": "Customer Account",
+        "_value.comment": "Customer Account used label"
+    },
+    "customerSinceLabel": {
+        "value": "Customer since ",
+        "_value.comment": "The label for the date the customer has been a customer since"
+    },
+    "customerSincePrefix": {
+        "value": "Customer since",
+        "_value.comment": "Prefix for the customer's account creation date verbage"
+    },
+    "decrementButtonAriaLabel": {
+        "value": "Press to decrease the quantity by 1",
+        "_value.comment": "Aria label for the quantity decrease button"
+    },
+    "defaultConfirmationText": {
+        "value": "Thank you, we're on our way!",
+        "_value.comment": "Default text shown when check-in is confirmed."
+    },
+    "defaultOrderTemplateName": {
+        "value": "Untitled",
+        "_value.comment": "Default order template name"
+    },
+    "defaultSubmitErrorMessage": {
+        "value": "An error occurred in payment method details. Please try again.",
+        "_value.comment": "Localized generic submit failure error message for Payment instrument module"
+    },
+    "defaultWishlistName": {
+        "value": "My wishlist",
+        "_value.comment": "Label for Default wishlist"
+    },
+    "deleteButtonText": {
+        "value": "Delete",
+        "_value.comment": "Mobile view remove button text"
+    },
+    "deleteOrderTemplateFailedText": {
+        "value": "Failed to delete order template",
+        "_value.comment": "Text for the failure in deleting order template"
+    },
+    "deleteTemplateButtonText": {
+        "value": "Delete template",
+        "_value.comment": "Text for the delete template button"
+    },
+    "deliveredSalesLines": {
+        "value": "Delivery",
+        "_value.comment": "Delivery at home"
+    },
+    "deliveryOptionAriaLabel": {
+        "value": "Delivery Option List",
+        "_value.comment": "Delivery option list aria label"
+    },
+    "deliveryOptionsNotFound": {
+        "value": "Please enter a valid 10 digit mobile number.",
+        "_value.comment": "Erroe message if no delivery options found"
+    },
+    "departmentLabel": {
+        "value": "Department",
+        "_value.comment": "Text display as label for department textbox."
+    },
+    "departmentMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for department."
+    },
+    "descriptionTextToShowAllPickupOptions": {
+        "value": "This product is available for the following pick up methods.",
+        "_value.comment": "Description text to show all pickup methods for product."
+    },
+    "detailsAriaLabel": {
+        "value": "View order details for {orderId}",
+        "_value.comment": "Details aria label"
+    },
+    "detailsLabel": {
+        "value": "View order details",
+        "_value.comment": "Details label"
+    },
+    "dimensionMissingError": {
+        "value": "{dimensionName} is required. Please choose a {dimensionName}",
+        "_value.comment": "Required product dimension error notification text"
+    },
+    "discardReviewButtonText": {
+        "value": "Discard",
+        "_value.comment": "The discard review button text"
+    },
+    "discountOffStringText": {
+        "value": "off",
+        "_value.comment": "string to show discount offer string"
+    },
+    "discountStringText": {
+        "value": "Savings ",
+        "_value.comment": "String to show discount offer string"
+    },
+    "duplicatePromotionErrorText": {
+        "value": "Promo code already applied",
+        "_value.comment": "Text to be shown when adding a duplicate promotion code"
+    },
+    "duplicatedCodeError": {
+        "value": "You already entered this gift card",
+        "_value.comment": "Error message for entering a gift card twice"
+    },
+    "duplicatedProductsDescription": {
+        "value": "This product has been added to the selected order template in the past. Do you want to update the product quantity in the order template?",
+        "_value.comment": "Error dialog description when order template already has the same item added"
+    },
+    "duplicatedProductsHeader": {
+        "value": "Duplicated products",
+        "_value.comment": "Error dialog header when order template already has the same item added"
+    },
+    "earnedPointsLabel": {
+        "value": "Earned",
+        "_value.comment": "Label for earned points"
+    },
+    "editBtnAriaLabel": {
+        "value": "Change",
+        "_value.comment": "Edit button aria label"
+    },
+    "editBtnLabel": {
+        "value": "Change",
+        "_value.comment": "Edit button label"
+    },
+    "editButtonAriaLabel": {
+        "value": "Edit profile",
+        "_value.comment": "Edit button aria label."
+    },
+    "editButtonText": {
+        "value": "Edit",
+        "_value.comment": "Edit button text."
+    },
+    "editCartText": {
+        "value": "Edit Cart",
+        "_value.comment": "Edit cart text"
+    },
+    "editReviewButtonText": {
+        "value": "Edit your review",
+        "_value.comment": "The edit review button text"
+    },
+    "editReviewCardText": {
+        "value": "Edit",
+        "_value.comment": "The edit review button text"
+    },
+    "editReviewModalTitle": {
+        "value": "Edit your review",
+        "_value.comment": "The title of the modal window for editing a review"
+    },
+    "emailAddressAriaLabel": {
+        "value": "Email address",
+        "_value.comment": "Text display as Aria Label in the email textbox."
+    },
+    "emailAddressLabel": {
+        "value": "Email address *",
+        "_value.comment": "Text display as label for email address textbox."
+    },
+    "emailAddressLabelText": {
+        "value": "Email address *",
+        "_value.comment": "Text display as label for email address textbox."
+    },
+    "emailAddressVerifiedSuccess": {
+        "value": "E-mail address verified. You can now continue",
+        "_value.comment": "Message to display on email address is verified successfully."
+    },
+    "emailDeliveryText": {
+        "value": "Will be delivered via email provided during checkout",
+        "_value.comment": "Text for email delivery"
+    },
+    "emailErrortext": {
+        "value": "Please enter a valid email",
+        "_value.comment": "Email error text"
+    },
+    "emailItemsHeader": {
+        "value": "Email delivery",
+        "_value.comment": "Header for email items group"
+    },
+    "emailLabel": {
+        "value": "Email address for order questions",
+        "_value.comment": "Email label"
+    },
+    "emailSalesLines": {
+        "value": "Email delivery",
+        "_value.comment": "Email delivery title"
+    },
+    "emailingItemsLabel": {
+        "value": "Emailing {0} {1}",
+        "_value.comment": "Emailing items label "
+    },
+    "emailshippingText": {
+        "value": "Email",
+        "_value.comment": "Text for shipping group heading"
+    },
+    "emptyCartText": {
+        "value": "Your cart is empty.",
+        "_value.comment": "Text for the empty cart"
+    },
+    "emptyInputError": {
+        "value": "Please enter a gift card number",
+        "_value.comment": "Error message for no gift card code entered"
+    },
+    "emptyLocationsText": {
+        "value": "No nearby locations found. Narrow your search criteria or search for a different location.",
+        "_value.comment": "Text for when there are no nearby locations"
+    },
+    "emptyOrderTemplateLinesText": {
+        "value": "Your order template lines is empty.",
+        "_value.comment": "Text for the empty order template lines"
+    },
+    "emptyOrderTemplateText": {
+        "value": "Your order template list is empty.",
+        "_value.comment": "Text for the empty order template list"
+    },
+    "emptyWishlistText": {
+        "value": "Your wishlist is empty.",
+        "_value.comment": "Text for the empty wishlist"
+    },
+    "enteredGiftCardLabel": {
+        "value": "Gift card ending in",
+        "_value.comment": "Label about gift card entered with balance and giftCardIssueAmount"
+    },
+    "errorGettingOrderTemplateLines": {
+        "value": "Sorry we are unable to load your order template lines at this moment, please try again later.",
+        "_value.comment": "Text for the error message while getting order template lines"
+    },
+    "errorMessage": {
+        "value": "Terms and conditions have to be accepted to proceed further.",
+        "_value.comment": "Generic error message for terms and conditions module"
+    },
+    "errorMessageOutOfRangeFormat": {
+        "value": "There are only {numLeft} products left. Please choose quantity within the available range",
+        "_value.comment": "Error message to show when quantity selected is more than the quantity left. {numLeft} is the number of products left."
+    },
+    "errorMessageOutOfRangeOneLeft": {
+        "value": "There is only one product left. Please choose quantity within the available range",
+        "_value.comment": "Error message to show when quantity selected is more than the quantity left, and only one product is left"
+    },
+    "errorMessageOutOfStock": {
+        "value": "This product is out of stock",
+        "_value.comment": "Error message to show when product is out of stock"
+    },
+    "errorMessageText": {
+        "value": "Something went wrong, please try again",
+        "_value.comment": "The error message text when a review fails to submit"
+    },
+    "errorMessageTitle": {
+        "value": "Error message",
+        "_value.comment": "Localized text for error message title"
+    },
+    "estimatedShippingLabel": {
+        "value": "Estimated Shipping",
+        "_value.comment": "Label of shipping"
+    },
+    "estimatedTaxLabel": {
+        "value": "Estimated Tax",
+        "_value.comment": "Label of estimated tax"
+    },
+    "exitFullScreenLabel": {
+        "value": " exit full screen",
+        "_value.comment": "Aria label for exit full screen buton"
+    },
+    "expandAllText": {
+        "value": "Open all",
+        "_value.comment": "Expand all text"
+    },
+    "expiresDateLabel": {
+        "value": "Expires",
+        "_value.comment": "Localized text for the expires date"
+    },
+    "expiringLoyaltyPointsLabel": {
+        "value": "Expiring points within 30 days",
+        "_value.comment": "Label to show expiring loyalty points"
+    },
+    "expiringPointsFormatAriaLabel": {
+        "value": "Expiring loyalty points within {0} days",
+        "_value.comment": "Format Aria label for expirign points"
+    },
+    "expiringPointsFormatLabel": {
+        "value": "Expiring points within {0} days",
+        "_value.comment": "Format label for expirign points"
+    },
+    "facebookButtonAriaLabel": {
+        "value": "Sign in with Facebook",
+        "_value.comment": "Facebook button aria label."
+    },
+    "facebookButtonText": {
+        "value": "Sign in with Facebook",
+        "_value.comment": "Facebook button text."
+    },
+    "failToGetCartText": {
+        "value": "Unable to get cart!",
+        "_value.comment": "Text for fail to get cart"
+    },
+    "failedToAddPromoCodeErrorText": {
+        "value": "Failed to add promo code",
+        "_value.comment": "To show message on fail to add promo code"
+    },
+    "failedToRemovePromoCodeErrorText": {
+        "value": "Failed to remove promo code",
+        "_value.comment": "To show message on fail to add promo code"
+    },
+    "falseValueText": {
+        "value": "No",
+        "_value.comment": "Text to show for boolean fields whose value is false"
+    },
+    "featureSimilarDescriptionTitle": {
+        "value": "Similar Description to",
+        "_value.comment": "Text display on the search feature module as title"
+    },
+    "featureSimilarLooksTitle": {
+        "value": "Similar Looks to",
+        "_value.comment": "Text display on the search feature module as title"
+    },
+    "feedbackErrorText": {
+        "value": "Something went wrong. Please try again.",
+        "_value.comment": "The text which is shown when the user when submit feedback fails"
+    },
+    "feedbackThankYouText": {
+        "value": "Thank you for the feedback.",
+        "_value.comment": "The text which is shown when the user gives the feedback to the review"
+    },
+    "fieldIncorrectError": {
+        "value": "One or more fields are filled out incorrectly. Please check your entries and try again.",
+        "_value.comment": " Field incorrect error message."
+    },
+    "filterByDropdownText": {
+        "value": "Filter by:",
+        "_value.comment": "Text used for the filter by dropdown."
+    },
+    "findInStoreDescriptionText": {
+        "value": "Search for product availability at stores near you.",
+        "_value.comment": "Description text for the find in store section"
+    },
+    "findInStoreHeaderText": {
+        "value": "Buy now, pick up in a store",
+        "_value.comment": "Heading text for the find in store section"
+    },
+    "findInStoreLinkText": {
+        "value": "Find in store",
+        "_value.comment": "Button text for the find in store section"
+    },
+    "findInStoreNotAvailableDescription": {
+        "value": "This product is currently unavailable for pick up. Please check other delivery options if the product is in stock.",
+        "_value.comment": "Text displayed in find in store description when there's no availability"
+    },
+    "findInStoreNotAvailableTextButton": {
+        "value": "This product is currently unavailable for pick up.",
+        "_value.comment": "Text displayed in find in store button when there's no availability"
+    },
+    "firstNameLabel": {
+        "value": "First name *",
+        "_value.comment": "Text display as label for first name textbox."
+    },
+    "firstNameLabelText": {
+        "value": "First name *",
+        "_value.comment": "Text display as label for first name textbox."
+    },
+    "firstNameMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for first name."
+    },
+    "fiveStarFilterByOptionText": {
+        "value": "5 stars",
+        "_value.comment": "Text which is shown in filter by dropdown to show review with 5 star ratings."
+    },
+    "flipperNext": {
+        "value": "Next",
+        "_value.comment": "value for next flipper control"
+    },
+    "flipperPrevious": {
+        "value": "Previous",
+        "_value.comment": "Value for previous flipper control"
+    },
+    "flyoutTitle": {
+        "value": "Your shopping bag",
+        "_value.comment": "string to be shown for mini cart flyout"
+    },
+    "forgotPasswordButtonAriaLabel": {
+        "value": "Forgotten password?",
+        "_value.comment": "Forgot password button aria label."
+    },
+    "forgotPasswordButtonText": {
+        "value": "Forgotten password?",
+        "_value.comment": "Forgot password button text."
+    },
+    "fourStarFilterByOptionText": {
+        "value": "4 stars",
+        "_value.comment": "Text which is shown in filter by dropdown to show review with 4 star ratings."
+    },
+    "freePriceText": {
+        "value": "FREE",
+        "_value.comment": "View order template text on item added to cart dialog"
+    },
+    "freeText": {
+        "value": "Free",
+        "_value.comment": "Free price text"
+    },
+    "fromDateLabel": {
+        "value": "From",
+        "_value.comment": "The label for the from date selector"
+    },
+    "fullOrganizationLabel": {
+        "value": "Organization account statement",
+        "_value.comment": "The label for the dropdown option where the admin requests a statement for the full organization."
+    },
+    "fullScreenLabel": {
+        "value": "full screen",
+        "_value.comment": "Aria label for full screen buton"
+    },
+    "fullScreenTitleText": {
+        "value": "fullscreen",
+        "_value.comment": "To show the title on media gallery image fullscreen"
+    },
+    "generalPickupText": {
+        "value": "Pick up",
+        "_value.comment": "A general pickup description that will show in UI before multiple pickup modes are enabled"
+    },
+    "genericErrorMessage": {
+        "value": "Something went wrong. Please try again later.",
+        "_value.comment": "Localized generic error message for Payment instrument module"
+    },
+    "giftCardAlertLabel": {
+        "value": "Your gift card may or may not include these fields",
+        "_value.comment": "Gift card input fields alert label"
+    },
+    "giftCardAvailableBalanceLabel": {
+        "value": "Available balance",
+        "_value.comment": "Label about gift card entered with balance and giftCardIssueAmount"
+    },
+    "giftCardEndingLabel": {
+        "value": "Gift card ending in",
+        "_value.comment": "Gift card ending label"
+    },
+    "giftCardExpLabel": {
+        "value": "Expiration date",
+        "_value.comment": "Gift card expiration date label"
+    },
+    "giftCardExpPlaceholderText": {
+        "value": "MM/YYYY",
+        "_value.comment": "Text for gift card expiratio date place holder"
+    },
+    "giftCardFormLabel": {
+        "value": "Gift card",
+        "_value.comment": "Gift card form label"
+    },
+    "giftCardNumberLabel": {
+        "value": "Gift card number",
+        "_value.comment": "Gift card number label"
+    },
+    "giftCardPinLabel": {
+        "value": "PIN",
+        "_value.comment": "Gift card pin label"
+    },
+    "giftCardPinPlaceholderText": {
+        "value": "PIN",
+        "_value.comment": "Text for gift card pin place holder"
+    },
+    "giftcardLabel": {
+        "value": "Gift card",
+        "_value.comment": "Label of gift card"
+    },
+    "goToCartButtonTitle": {
+        "value": "View shopping bag ({count})",
+        "_value.comment": "Label for go to cart button. Count = number of items in the cart"
+    },
+    "guestCheckoutButtonTitle": {
+        "value": "Guest Checkout",
+        "_value.comment": "Label for guest checkout button"
+    },
+    "headerPreferredStoreAriaLabel": {
+        "value": "Store locator",
+        "_value.comment": "Store locator aria label"
+    },
+    "headerPreferredStoreText": {
+        "value": " ",
+        "_value.comment": "Store locator text"
+    },
+    "headingImages": {
+        "value": "Delivery",
+        "_value.comment": "Display heading on image group"
+    },
+    "helpLineContactAriaLabel": {
+        "value": "Need help, call",
+        "_value.comment": "Localized text for contact link aria label"
+    },
+    "helpLineNumberLabel": {
+        "value": "Call",
+        "_value.comment": "Help line number label"
+    },
+    "highestRatedSortOptionText": {
+        "value": "Highest rated",
+        "_value.comment": "Text which is shown in sort by dropdown to sort reviews by their rating."
+    },
+    "iframeAriaLabel": {
+        "value": "Payment iframe",
+        "_value.comment": "Localized text for iframe aria label"
+    },
+    "inStockText": {
+        "value": "In stock",
+        "_value.comment": "Text for when item is in  stock"
+    },
+    "inStorePickUpLabel": {
+        "value": "In-store pickup ({count} {suffix})",
+        "_value.comment": "In store pickup label"
+    },
+    "incrementButtonAriaLabel": {
+        "value": "Press to increment quantity by 1",
+        "_value.comment": "Aria label for the quantity increment button"
+    },
+    "informationIconText": {
+        "value": "Information",
+        "_value.comment": "Information to be read by screen reader for Information icon"
+    },
+    "inputAmountAriaLabel": {
+        "value": "amount to pay with customer account",
+        "_value.comment": "The aria label for accessability for the input for the user to choose the amount to pay with customer account"
+    },
+    "inputAmountLabel": {
+        "value": "Apply credit balance",
+        "_value.comment": "The label that is displayed above the input for the user to choose the amount to pay with customer account"
+    },
+    "inputAmountSummaryLabel": {
+        "value": "Account balance",
+        "_value.comment": "The label that is displayed above the input for the user to choose the amount to pay with customer account when in summary mode"
+    },
+    "inputQuantityAriaLabel": {
+        "value": "quantity input",
+        "_value.comment": "Aria label for the input quantity"
+    },
+    "invalidAmountMessage": {
+        "value": "Invalid amount",
+        "_value.comment": "Message to be displayed when the amount is not valid."
+    },
+    "invalidCardInfoError": {
+        "value": "Invalid gift card information entered",
+        "_value.comment": "Error message for invalid gift card information entered"
+    },
+    "invalidCardTypeError": {
+        "value": "The gift card type is not supported",
+        "_value.comment": "Error message for invalid gift card type"
+    },
+    "invalidCartVersionErrorMessage": {
+        "value": "The cart was updated by another session. Please refresh browser and retry.",
+        "_value.comment": "Invalid cart version error message"
+    },
+    "invalidCodeError": {
+        "value": "Invalid gift card code entered",
+        "_value.comment": "Error message for invalid gift card code entered"
+    },
+    "invalidEmailAddressError": {
+        "value": "Please enter a valid email address.",
+        "_value.comment": "Email address invalid field error message."
+    },
+    "invalidEmailError": {
+        "value": "Incorrect format.",
+        "_value.comment": "Error to display when email format is invalid."
+    },
+    "invalidLargeCustomAmountText": {
+        "value": "The maximum amount is {maxAmount}",
+        "_value.comment": "String to show message that the custom amount is larger than the maximum limit"
+    },
+    "invalidPasswordError": {
+        "value": "Please enter a valid password.",
+        "_value.comment": "Must have more than 8 characters with at least 1 number and special character."
+    },
+    "invalidPromoCodeErrorText": {
+        "value": "Invalid promo code",
+        "_value.comment": "To show invalid promo code message"
+    },
+    "invalidSmallCustomAmountText": {
+        "value": "The minimum amount is {minAmount}",
+        "_value.comment": "String to show message that the custom amount is smaller than the minimum limit"
+    },
+    "invoiceActionsButtonTextAriaLabel": {
+        "value": "Actions",
+        "_value.comment": "Text for the action button"
+    },
+    "invoiceActionsText": {
+        "value": "Action",
+        "_value.comment": "Column title for invoice actions"
+    },
+    "invoiceAmountDueText": {
+        "value": "Amount due",
+        "_value.comment": "Column title for invoice amount due"
+    },
+    "invoiceAmountText": {
+        "value": "Invoice amount",
+        "_value.comment": "Column title for invoice amount"
+    },
+    "invoiceCurrentUser": {
+        "value": " (You)",
+        "_value.comment": "Identifies current user"
+    },
+    "invoiceDateMobileText": {
+        "value": "Date",
+        "_value.comment": "String for date column name in mobile view"
+    },
+    "invoiceDateText": {
+        "value": "Invoice date",
+        "_value.comment": "Column title for invoice date"
+    },
+    "invoiceDueDateText": {
+        "value": "Due date",
+        "_value.comment": "Column title for invoice due date"
+    },
+    "invoiceEmptyInvoiceLinesContinueShoppingButtonAriaLabel": {
+        "value": "Click to continue shopping and go to the home page",
+        "_value.comment": "String for continue shopping button aria label when user has no invoice lines"
+    },
+    "invoiceEmptyInvoiceLinesContinueShoppingButtonText": {
+        "value": "Continue shopping",
+        "_value.comment": "String for continue shopping button text when user has no invoice lines"
+    },
+    "invoiceEmptyInvoiceLinesDescription": {
+        "value": "Invoices will be displayed here for your reference once you have made a purchase.",
+        "_value.comment": "The description when user has no invoice lines"
+    },
+    "invoiceEmptyInvoiceLinesTitle": {
+        "value": "You do not have any invoices at this time.",
+        "_value.comment": "The main text of the page when user has no invoice lines"
+    },
+    "invoiceErrorFailedAddInvoiceToCart": {
+        "value": "Failed to add invoice(s) to cart, please refresh and retry.",
+        "_value.comment": "Failed at cart action."
+    },
+    "invoiceErrorInvoiceIdNotExist": {
+        "value": "Invoice Id is either empty nor not exist, please check the invoice.",
+        "_value.comment": "Empty or not exist invoice id."
+    },
+    "invoiceErrorMessageHeader": {
+        "value": "There are some issues at paying invoice",
+        "_value.comment": "Header text for the error message region"
+    },
+    "invoiceIdLabel": {
+        "value": "Invoice #{0}",
+        "_value.comment": "Label to show Invoice Id"
+    },
+    "invoiceInCartErrorMessage": {
+        "value": "Can not add items to a cart containing an invoice.",
+        "_value.comment": "Text for the error message while adding product to cart with an invoice"
+    },
+    "invoiceLabel": {
+        "value": "Invoice {0}",
+        "_value.comment": "Invoice summary line label"
+    },
+    "invoiceListSelectAllRadioAriaLabelText": {
+        "value": "Select all invoices",
+        "_value.comment": "Aria label for select all invoices checkbox"
+    },
+    "invoiceListSelectRadioAriaLabelText": {
+        "value": "Select invoice {0}",
+        "_value.comment": "Aria label for select invoices checkbox from the list"
+    },
+    "invoiceNumberText": {
+        "value": "Invoice number",
+        "_value.comment": "Column title for invoice id"
+    },
+    "invoiceOrderItem": {
+        "value": "1 item",
+        "_value.comment": "Label to show the number of items in the order for 1 item"
+    },
+    "invoiceOrderItems": {
+        "value": "{0} items",
+        "_value.comment": "Label to show the number of items in the order"
+    },
+    "invoicePaymentCharges": {
+        "value": "Charges",
+        "_value.comment": "Text for invoice charges payment line"
+    },
+    "invoicePaymentDiscounts": {
+        "value": "Discounts",
+        "_value.comment": "Text for invoice discounts payment line"
+    },
+    "invoicePaymentDueDateText": {
+        "value": "Payment due: {0}",
+        "_value.comment": "Text for invoice amount due date"
+    },
+    "invoicePaymentInvoiceTotal": {
+        "value": "Invoice total",
+        "_value.comment": "Text for invoice total amount payment line"
+    },
+    "invoicePaymentSubtotal": {
+        "value": "Subtotal",
+        "_value.comment": "Text for invoice subtotal payment line"
+    },
+    "invoicePaymentTax": {
+        "value": "Tax",
+        "_value.comment": "Text for invoice tax payment line"
+    },
+    "invoicePlacedByLabel": {
+        "value": "Order placed by: ",
+        "_value.comment": "Label to show person name who placed the order"
+    },
+    "invoiceProductColor": {
+        "value": "Color: {0}",
+        "_value.comment": "Text for invoice product color"
+    },
+    "invoiceProductSize": {
+        "value": "Size: {0}",
+        "_value.comment": "Text for invoice product size"
+    },
+    "invoiceProductStyle": {
+        "value": "Style: {0}",
+        "_value.comment": "Text for invoice product style"
+    },
+    "invoiceQuantity": {
+        "value": "Quantity: {0}",
+        "_value.comment": "Text for invoice product quantity"
+    },
+    "invoiceRequestButtonLabel": {
+        "value": "Request invoice",
+        "_value.comment": "Label for the request invoice button"
+    },
+    "invoiceRequestModalCancelLabel": {
+        "value": "Cancel",
+        "_value.comment": "Label for the cancel button"
+    },
+    "invoiceRequestModalHeaderLabel": {
+        "value": "Request invoice",
+        "_value.comment": "Label for the header of the request invoice modal"
+    },
+    "invoiceRequestModalInvoiceSearchDisplay": {
+        "value": "We found {0} invoices matching that invoice number",
+        "_value.comment": "Display text for the search results text when searching by invoice number"
+    },
+    "invoiceRequestModalSearch": {
+        "value": "Search for an invoice by id",
+        "_value.comment": "The placeholder text for the invoice request modal's search bar."
+    },
+    "invoiceRequestModalSearchButton": {
+        "value": "Search",
+        "_value.comment": "This alt text for the search button for accessibility purposes."
+    },
+    "invoiceRequestModalSendToEmailLabel": {
+        "value": "Send to",
+        "_value.comment": "Label for the email the invoice will be sent to"
+    },
+    "invoiceRequestModalSingleInvoiceSearchDisplay": {
+        "value": "We found {0} invoice matching that invoice number",
+        "_value.comment": "Display text for the search results text when searching by invoice number and only one result is found"
+    },
+    "invoiceRequestModalSubmitLabel": {
+        "value": "Submit request",
+        "_value.comment": "Label for the submit button of the request invoice modal"
+    },
+    "invoiceStatusNone": {
+        "value": "None",
+        "_value.comment": "String for invoice status none"
+    },
+    "invoiceStatusPaid": {
+        "value": "Paid",
+        "_value.comment": "String for paid invoice status"
+    },
+    "invoiceStatusPartiallyPaid": {
+        "value": "Partially paid",
+        "_value.comment": "String for partially paid invoice status"
+    },
+    "invoiceStatusText": {
+        "value": "Status",
+        "_value.comment": "Column title for invoice status"
+    },
+    "invoiceStatusUnpaid": {
+        "value": "Unpaid",
+        "_value.comment": "String for unpaid invoice status"
+    },
+    "invoiceSummaryTitle": {
+        "value": "Payment summary",
+        "_value.comment": "Invoice summary title"
+    },
+    "invoiceUsersText": {
+        "value": "User(s)",
+        "_value.comment": "Column title for invoice user(s)"
+    },
+    "invoiceViewDetailsButtonAriaLabel": {
+        "value": "Click to view details of the invoice",
+        "_value.comment": "String for view invoice details button aria label"
+    },
+    "invoiceViewDetailsButtonText": {
+        "value": "View details",
+        "_value.comment": "String for view invoice details button text"
+    },
+    "invoicesFilterShowAll": {
+        "value": "Show all",
+        "_value.comment": "Text for filter when all invoices should be shown."
+    },
+    "invoicesListDescCount": {
+        "value": "({0} items)",
+        "_value.comment": "Invoices list page description count text"
+    },
+    "invoicesListDescTitle": {
+        "value": "Amount due",
+        "_value.comment": "Invoices list page description section title"
+    },
+    "invoicesListTitle": {
+        "value": "Invoices",
+        "_value.comment": "Invoices list page title"
+    },
+    "invoicesLoadMore": {
+        "value": "Load more",
+        "_value.comment": "Text for button to load more invoices."
+    },
+    "invoicesText": {
+        "value": "Invoices",
+        "_value.comment": "String for invoices column name in mobile view"
+    },
+    "itemAddedToCartHeaderItemFormatText": {
+        "value": "{0} items",
+        "_value.comment": "View order template text on item added to order template dialog"
+    },
+    "itemAddedToCartHeaderItemOneText": {
+        "value": "1 item",
+        "_value.comment": "View order template text on item added to cart dialog"
+    },
+    "itemAddedToCartHeaderMessageText": {
+        "value": " added to bag",
+        "_value.comment": "View order template text on item added to cart dialog"
+    },
+    "itemAddedToOrderTemplateHeaderItemFormatText": {
+        "value": "{0} items",
+        "_value.comment": "View order template text on item added to order template dialog"
+    },
+    "itemAddedToOrderTemplateHeaderItemOneText": {
+        "value": "1 item",
+        "_value.comment": "View order template text on item added to order template dialog"
+    },
+    "itemAddedToOrderTemplateHeaderMessageText": {
+        "value": " added to order template",
+        "_value.comment": "View order template text on item added to order template dialog"
+    },
+    "itemLabel": {
+        "value": "item",
+        "_value.comment": "Item label"
+    },
+    "itemsLabel": {
+        "value": "items",
+        "_value.comment": "Items label"
+    },
+    "itemsText": {
+        "value": "{0} items",
+        "_value.comment": "Display number of items for the pickup group"
+    },
+    "itemsWithCountLabel": {
+        "value": "Subtotal ",
+        "_value.comment": "Items with count label"
+    },
+    "jobTitleLabel": {
+        "value": "Job",
+        "_value.comment": "Text display as label for job title textbox."
+    },
+    "jobTitleMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for job title."
+    },
+    "joinDateFormatted": {
+        "value": "Member since {0}",
+        "_value.comment": "Format text to show when the user joined the program"
+    },
+    "joinLoyaltyButtonText": {
+        "value": "Sign up for loyalty",
+        "_value.comment": "Join loyalty program button text"
+    },
+    "joinLoyaltyTermsText": {
+        "value": "Join now",
+        "_value.comment": "Text shown on join loyalty program button in loyalty terms modal"
+    },
+    "joinLoyaltytermsToggleText": {
+        "value": "Sign up for loyalty",
+        "_value.comment": "Text shown on loyalty terms modal toggle"
+    },
+    "kilometersShortText": {
+        "value": "km",
+        "_value.comment": "Used when displaying distance a store is from the current location in kilometers"
+    },
+    "lastNameLabel": {
+        "value": "Last name *",
+        "_value.comment": "Text display as label for last name textbox."
+    },
+    "lastNameLabelText": {
+        "value": "Last name *",
+        "_value.comment": "Text display as label for last name textbox."
+    },
+    "lastNameMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for last name."
+    },
+    "lineItemsText": {
+        "value": "{0} line item(s)",
+        "_value.comment": "Text for add to order template dialog order template description"
+    },
+    "linesAddedToCartHeaderItemsOneText": {
+        "value": "1 order template",
+        "_value.comment": "View order template text on cart added to cart dialog"
+    },
+    "linesAddedToCartHeaderLinesFormatText": {
+        "value": "{0} lines",
+        "_value.comment": "View order template text on cart added to cart dialog"
+    },
+    "linesAddedToCartHeaderLinesOneText": {
+        "value": "1 line",
+        "_value.comment": "View order template text on cart added to cart dialog"
+    },
+    "linesAddedToCartHeaderMessageText": {
+        "value": " added to bag",
+        "_value.comment": "View order template text on cart added to cart dialog"
+    },
+    "linesAddedToOrderTemplateCustomPriceAlertMessageText": {
+        "value": "The following products cannot be added to order template due to custom pricing",
+        "_value.comment": "Alert message for adding custom price product from cart to order template dialog"
+    },
+    "linesAddedToOrderTemplateHeaderItemsFormatText": {
+        "value": "{0} line items",
+        "_value.comment": "View order template text on cart added to order template dialog"
+    },
+    "linesAddedToOrderTemplateHeaderItemsOneText": {
+        "value": "1 line item",
+        "_value.comment": "View order template text on cart added to order template dialog"
+    },
+    "linesAddedToOrderTemplateHeaderLinesFormatText": {
+        "value": "{0} lines",
+        "_value.comment": "View order template text on cart added to order template dialog"
+    },
+    "linesAddedToOrderTemplateHeaderLinesOneText": {
+        "value": "1 line",
+        "_value.comment": "View order template text on cart added to order template dialog"
+    },
+    "linesAddedToOrderTemplateHeaderMessageText": {
+        "value": " added to order template",
+        "_value.comment": "View order template text on cart added to order template dialog"
+    },
+    "loadingLabel": {
+        "value": "Loading...",
+        "_value.comment": "Loading message"
+    },
+    "loadingMessage": {
+        "value": "Loading...",
+        "_value.comment": "Text of the loading message"
+    },
+    "loadingText": {
+        "value": "Loading...",
+        "_value.comment": "Text to displayed when the modal popup loads"
+    },
+    "loginButtonAriaLabel": {
+        "value": "Sign in",
+        "_value.comment": "Login button aria label."
+    },
+    "loginButtonText": {
+        "value": "Sign in",
+        "_value.comment": "Login button text."
+    },
+    "lowestRatedSortOptionText": {
+        "value": "Lowest rated",
+        "_value.comment": "Text which is shown in sort by dropdown to sort reviews by their rating."
+    },
+    "loyaltyActivityBalanceLabel": {
+        "value": "Balance",
+        "_value.comment": "Label for loyalty activity balance"
+    },
+    "loyaltyActivityDateLabel": {
+        "value": "Date",
+        "_value.comment": "Label for loyalty activity dates"
+    },
+    "loyaltyAgreeToTerms": {
+        "value": "I have read and agree to the terms of service listed above",
+        "_value.comment": "Text to prompt users to agree to terms of service"
+    },
+    "loyaltyCardLabel": {
+        "value": "Loyalty card",
+        "_value.comment": "Label for loyalty card"
+    },
+    "loyaltyCardUsedLabel": {
+        "value": "Loyalty card used ",
+        "_value.comment": "Loyalty card used label"
+    },
+    "loyaltyCoveredAmountText": {
+        "value": "Amount covered by loyalty: ",
+        "_value.comment": "Text to display next to dollar amount covered by applied loyalty points"
+    },
+    "loyaltyHeadingText": {
+        "value": "Loyalty card",
+        "_value.comment": "Text used for the loyalty section header of payment"
+    },
+    "loyaltyLabel": {
+        "value": "Loyalty rewards",
+        "_value.comment": "Label of loyalty rewards"
+    },
+    "loyaltyProgramText": {
+        "value": "Become a loyalty member to earn points and to receive member only discounts.",
+        "_value.comment": "Brief description informing user of loyalkty program benefits"
+    },
+    "loyaltyTermsHeading": {
+        "value": "Loyalty program terms of service",
+        "_value.comment": "Heading text for loyalty terms of service"
+    },
+    "loyaltyTermsLinkText": {
+        "value": "By signing up, you accept our Terms & Conditions of our loyalty program.",
+        "_value.comment": "Link text for loyalty terms and conditions"
+    },
+    "makePaymentButtonAriaLabel": {
+        "value": "Click to make a payment for the invoices",
+        "_value.comment": "Aria label for make a payment button"
+    },
+    "makePaymentButtonText": {
+        "value": "Make a payment",
+        "_value.comment": "Text for make a payment button"
+    },
+    "maxLabel": {
+        "value": "Max",
+        "_value.comment": "Label to display with the maximum input box for input range refiners"
+    },
+    "maxQuantityLimitText": {
+        "value": "You already have {curQuantity} of this item in your shopping bag. You can only add {maxQuantity} of this item to your shopping bag",
+        "_value.comment": "String to show message that you've reached max quantity"
+    },
+    "maxQuantityText": {
+        "value": "The maximum quantity to purchase for this product is {max}.",
+        "_value.comment": "Label to display the maximum quantity limit for product"
+    },
+    "maxValueSliderThumbAriaLabel": {
+        "value": "Maximum price",
+        "_value.comment": "Aria-label for the max value slider thumb in rangeRefineItem"
+    },
+    "menuAriaLabel": {
+        "value": "Menu",
+        "_value.comment": "aria label for main menu"
+    },
+    "microsoftButtonAriaLabel": {
+        "value": "Sign in with Microsoft",
+        "_value.comment": "Microsoft button aria label."
+    },
+    "microsoftButtonText": {
+        "value": "Sign in with Microsoft",
+        "_value.comment": "Microsoft button text."
+    },
+    "milesShortText": {
+        "value": "mi",
+        "_value.comment": "Used when displaying distance a store is from the current location in miles"
+    },
+    "minLabel": {
+        "value": "Min",
+        "_value.comment": "Label to display with the minimum input box for input range refiners"
+    },
+    "minQuantityText": {
+        "value": "The minimum quantity to purchase for this product is {min}.",
+        "_value.comment": "Label to display the minimum quantity limit for product"
+    },
+    "minValueSliderThumbAriaLabel": {
+        "value": "Minimum price",
+        "_value.comment": "Aria-label for the min value slider thumb in rangeRefineItem"
+    },
+    "mobileHamburgerAriaLabel": {
+        "value": "Hamburger menu",
+        "_value.comment": "The aria label used for mobile view hamburger"
+    },
+    "modalCloseButtonText": {
+        "value": "Close",
+        "_value.comment": "Text display on the button used to close the sort and filter modal."
+    },
+    "modalHeaderLabel": {
+        "value": "Request account statement",
+        "_value.comment": "Label for the request account statement modal header"
+    },
+    "modalTitle": {
+        "value": "Sort & filter",
+        "_value.comment": "Text display as modal title."
+    },
+    "moreButtonText": {
+        "value": "View more",
+        "_value.comment": "View more button text"
+    },
+    "mostHelpfulSortOptionText": {
+        "value": "Most helpful",
+        "_value.comment": "Text which is shown in sort by dropdown to sort reviews in the order of their helpfulness."
+    },
+    "mostRecentSortOptionText": {
+        "value": "Most recent",
+        "_value.comment": "Text which is shown in sort by dropdown to show reviews which are most recent."
+    },
+    "multiplePickUpLabel": {
+        "value": "Pickup",
+        "_value.comment": "Multiple Pickup Heading"
+    },
+    "muteLabel": {
+        "value": "mute",
+        "_value.comment": "Aria label for mute button"
+    },
+    "myAccountStatementLabel": {
+        "value": "My account statement",
+        "_value.comment": "The label for the dropdown option where the admin requests there own statement."
+    },
+    "nameOfWishlist": {
+        "value": "My Wishlist",
+        "_value.comment": "string for name of the wishlist"
+    },
+    "needHelpLabel": {
+        "value": "Need help?",
+        "_value.comment": "Need help label"
+    },
+    "newPasswordLabelText": {
+        "value": "New password *",
+        "_value.comment": "Text display as placeholder in new password label."
+    },
+    "nextButtonText": {
+        "value": "Next",
+        "_value.comment": "The label which is shown on next button"
+    },
+    "nextScreenshotFlipperText": {
+        "value": "Next",
+        "_value.comment": "The label for the 'next screenshot' flipper"
+    },
+    "noAutoSuggestionMessage": {
+        "value": "No autosuggest results are available",
+        "_value.comment": "Empty autosuggest response message for aria label"
+    },
+    "noAvailableDateError": {
+        "value": "No available pickup date for the selected store. Please select another store.",
+        "_value.comment": "Error message for no available dates"
+    },
+    "noAvailableTimeslotError": {
+        "value": "No available time slot for the selected date. Please select another date.",
+        "_value.comment": "Error message for no available time slots"
+    },
+    "noBalanceError": {
+        "value": "Gift card has no balance left",
+        "_value.comment": "Error message for gift card has 0 balance"
+    },
+    "noButtonText": {
+        "value": "Downvote this review",
+        "_value.comment": "The label which is shown on button which allows user to downvote"
+    },
+    "noCardExpError": {
+        "value": "Gift card expiration date is required",
+        "_value.comment": "Error message for missing required gift card expiration date"
+    },
+    "noCardPinError": {
+        "value": "Gift card PIN is required",
+        "_value.comment": "Error message for missing required gift card pin"
+    },
+    "noCreditErrorMessage": {
+        "value": "You do not have account credit established.",
+        "_value.comment": "Lack of established credit error notification text"
+    },
+    "noOrderHistoryLable": {
+        "value": "You currently don't have any orders to view.",
+        "_value.comment": "Text for no order history"
+    },
+    "noOrderTemplatesDescription": {
+        "value": "Order templates will be saved to your account. You can reuse them in the future to speed up the checkout process. Create an order template and add this item to it.",
+        "_value.comment": "Text for add to order template dialog description"
+    },
+    "noOrderTemplatesMessage": {
+        "value": "You have not created any order templates.",
+        "_value.comment": "Text for add to order template dialog message"
+    },
+    "noResultsForRefinersText": {
+        "value": "No products found for the selected criteria.",
+        "_value.comment": "Message to display when no products are returned with applied refinement criteria"
+    },
+    "noReviewsMessage": {
+        "value": "No reviews available. Be the first to review this product.",
+        "_value.comment": "Text shown in reviews module when no one has reviewed the product yet."
+    },
+    "noReviewsWithSelectedFilterMessage": {
+        "value": "Showing 0 reviews.",
+        "_value.comment": "Text shown in reviews module when no review is found with selected filter."
+    },
+    "noSalesOrderDetailsText": {
+        "value": "No order details found",
+        "_value.comment": "Text describes no sales order found"
+    },
+    "noSalesOrderText": {
+        "value": "No order confirmation found",
+        "_value.comment": "Text describes no sales order found"
+    },
+    "notApplicationForCartOrderSummary": {
+        "value": "Not applicable",
+        "_value.comment": "String associated with order total line display text"
+    },
+    "notFoundSearchErrorNotice": {
+        "value": "No items found.",
+        "_value.comment": "Text message for remediating an empty search query"
+    },
+    "notFoundSearchErrorRedediation": {
+        "value": "Try entering a different keyword.",
+        "_value.comment": "Text message for empty search results"
+    },
+    "numberOfProducts": {
+        "value": "{0} products",
+        "_value.comment": "String to define the number of products returned found for a search term"
+    },
+    "offensiveContentText": {
+        "value": "Contains offensive content",
+        "_value.comment": "The text which is shown in review when the user wants to report offensive content"
+    },
+    "okReportReviewText": {
+        "value": "Ok",
+        "_value.comment": "The label which is shown on button to acknowledge successful reporting"
+    },
+    "oneProduct": {
+        "value": "1 product",
+        "_value.comment": "String to define the only one product being returned for search"
+    },
+    "oneStarFilterByOptionText": {
+        "value": "1 star",
+        "_value.comment": "Text which is shown in filter by dropdown to show review with 1 star ratings."
+    },
+    "onlineStoreChannelNameText": {
+        "value": "Online purchase",
+        "_value.comment": "String to show online store channel name"
+    },
+    "optionButtonLabel": {
+        "value": "More options",
+        "_value.comment": "Label for the option button on video player controls"
+    },
+    "orLabel": {
+        "value": "OR",
+        "_value.comment": "The label that shows up between the guest checkout button and the signed-in checkout button, when the application is in an anonymous user state"
+    },
+    "orderCountLabel": {
+        "value": "order",
+        "_value.comment": "total sales orders in order history"
+    },
+    "orderDetailsActionsText": {
+        "value": "Actions",
+        "_value.comment": "Actions column text for order details table view header"
+    },
+    "orderDetailsBuyItAgainButtonAriaLabel": {
+        "value": "Buy it again for {0}",
+        "_value.comment": "Buy current item again button aria label"
+    },
+    "orderDetailsBuyItAgainButtonText": {
+        "value": "Buy it again",
+        "_value.comment": "Buy current item again button text"
+    },
+    "orderDetailsBuyItemsAgainHeaderText": {
+        "value": "Choose items to buy again",
+        "_value.comment": "Text for buy again heading on order details page"
+    },
+    "orderDetailsBuySelectedAddingToCartErrorNotificationCloseAriaLabel": {
+        "value": "Close",
+        "_value.comment": "Aria label for close error notification button"
+    },
+    "orderDetailsBuySelectedAddingToCartErrorNotificationTitle": {
+        "value": "Failed to add selected lines to cart",
+        "_value.comment": "Text for error notification title which is shown in case adding to cart failed"
+    },
+    "orderDetailsBuySelectedButtonAriaLabel": {
+        "value": "Add selected to bag",
+        "_value.comment": "Add selected to bag button aria label"
+    },
+    "orderDetailsBuySelectedButtonText": {
+        "value": "Add selected to bag",
+        "_value.comment": "Add selected to bag button text"
+    },
+    "orderDetailsDetailedViewModeAriaLabel": {
+        "value": "Details view",
+        "_value.comment": "Aria-label for order details detailed view"
+    },
+    "orderDetailsDialogCloseText": {
+        "value": "Close",
+        "_value.comment": "Text to show on close button for item added dialog"
+    },
+    "orderDetailsDisableSelectionButtonAriaLabel": {
+        "value": "Back to order details",
+        "_value.comment": "Disable selection button aria label"
+    },
+    "orderDetailsDisableSelectionButtonText": {
+        "value": "Back to order details",
+        "_value.comment": "Disable selection button button text"
+    },
+    "orderDetailsEnableSelectionButtonAriaLabel": {
+        "value": "Buy all items again",
+        "_value.comment": "Enable selection button aria label"
+    },
+    "orderDetailsEnableSelectionButtonText": {
+        "value": "Buy all items again",
+        "_value.comment": "Enable selection button text"
+    },
+    "orderDetailsGoToCartText": {
+        "value": "View bag and checkout",
+        "_value.comment": "Text to show on Button to view cart"
+    },
+    "orderDetailsHeaderMessageText": {
+        "value": " added to bag",
+        "_value.comment": "Text to show if a item is added to the bag"
+    },
+    "orderDetailsListViewModeAriaLabel": {
+        "value": "List view",
+        "_value.comment": "Aria-label for order details list view"
+    },
+    "orderDetailsModeOfDeliveryText": {
+        "value": "Mode of delivery",
+        "_value.comment": "Mode of delivery column text for order details table view header"
+    },
+    "orderDetailsMultiErrorText": {
+        "value": "errors",
+        "_value.comment": "Text for multiple validation errors."
+    },
+    "orderDetailsMultiItemsValidationErrorMessage": {
+        "value": "There are {0} validation {1} in cart, please go to cart page for more details.",
+        "_value.comment": "Text for multi items added to cart with validation errors."
+    },
+    "orderDetailsMultiLineItemFormatText": {
+        "value": "{0} items",
+        "_value.comment": "Text to show if multiple items added"
+    },
+    "orderDetailsMultiLinesFormatText": {
+        "value": "{0} lines",
+        "_value.comment": "Text to show multiple lines added"
+    },
+    "orderDetailsOneErrorText": {
+        "value": "error",
+        "_value.comment": "Text for single validation error."
+    },
+    "orderDetailsProductDimensionsSeparator": {
+        "value": ", ",
+        "_value.comment": "Separator for product dimensions"
+    },
+    "orderDetailsProductNumberText": {
+        "value": "Product number",
+        "_value.comment": "Product number column text for order details table view header"
+    },
+    "orderDetailsProductText": {
+        "value": "Product",
+        "_value.comment": "Product column text for order details table view header"
+    },
+    "orderDetailsQuantityMobileText": {
+        "value": "Quantity: {0}",
+        "_value.comment": "Quantity text for order details table view"
+    },
+    "orderDetailsQuantityText": {
+        "value": "Quantity",
+        "_value.comment": "Quantity column text for order details table view header"
+    },
+    "orderDetailsSelectAllRadioAriaLabelText": {
+        "value": "Select all",
+        "_value.comment": "Select all aria label text for products selection for order details"
+    },
+    "orderDetailsSelectRadioAriaLabelText": {
+        "value": "Select product line {0}",
+        "_value.comment": "Select a product aria label text for products selection for order details"
+    },
+    "orderDetailsSingleItemText": {
+        "value": "1 item",
+        "_value.comment": "Text to show if one item is added"
+    },
+    "orderDetailsStatusText": {
+        "value": "Status",
+        "_value.comment": "Status column text for order details table view header"
+    },
+    "orderDetailsTotalText": {
+        "value": "Total",
+        "_value.comment": "Total column text for order details table view header"
+    },
+    "orderDetailsUnavailableProductText": {
+        "value": "This product is not available at the moment.",
+        "_value.comment": "Aria label for unassorted products"
+    },
+    "orderDetailsUnitOfMeasureText": {
+        "value": "UOM",
+        "_value.comment": "Unit of measure column text for order details table view header"
+    },
+    "orderDetailsUnitPriceText": {
+        "value": "Unit price",
+        "_value.comment": "Unit price column text for order details table view header"
+    },
+    "orderDetailsViewDetailsButtonAriaLabel": {
+        "value": "View details",
+        "_value.comment": "View details button aria label for extra actions popup in the mobile view"
+    },
+    "orderDetailsViewDetailsButtonText": {
+        "value": "View details",
+        "_value.comment": "View details button text for extra actions popup in the mobile view"
+    },
+    "orderHistoryCreatedDateMobileDescriptionText": {
+        "value": "Created date: {0}",
+        "_value.comment": "Created date cell text for order history details view item"
+    },
+    "orderHistoryCreatedDateText": {
+        "value": "Created date",
+        "_value.comment": "Created date column text for order history details view header"
+    },
+    "orderHistoryDetailedViewModeAriaLabel": {
+        "value": "Details view",
+        "_value.comment": "Aria-label for order history details view"
+    },
+    "orderHistoryFilterOrganizationWide": {
+        "value": "Organization-wide order history",
+        "_value.comment": "Order history filter label for state when user browses organization's order history"
+    },
+    "orderHistoryFilterYourOrderHistory": {
+        "value": "Your order history",
+        "_value.comment": "Order history filter label for state when user browses own order history"
+    },
+    "orderHistoryItemsText": {
+        "value": "Items",
+        "_value.comment": "Items column text for order history details view header"
+    },
+    "orderHistoryListViewModeAriaLabel": {
+        "value": "List view",
+        "_value.comment": "Aria-label for order history list view"
+    },
+    "orderHistoryOrderNumberIsNotAvailable": {
+        "value": "Not yet available",
+        "_value.comment": "Text to be shown as a placeholder in case order number is not available"
+    },
+    "orderHistoryOrderNumberText": {
+        "value": "Order number",
+        "_value.comment": "Order number column text for order history details view header"
+    },
+    "orderHistoryOriginText": {
+        "value": "Origin",
+        "_value.comment": "Origin column text for order history details view header"
+    },
+    "orderHistoryTotalText": {
+        "value": "Total",
+        "_value.comment": "Total column text for order history details view header"
+    },
+    "orderHistoryViewDetailsButtonAriaLabel": {
+        "value": "View details",
+        "_value.comment": "View details button aria label"
+    },
+    "orderHistoryViewDetailsButtonText": {
+        "value": "View details",
+        "_value.comment": "View details button text"
+    },
+    "orderIdLabel": {
+        "value": "Order#",
+        "_value.comment": "Order ID label"
+    },
+    "orderItemLabel": {
+        "value": "item",
+        "_value.comment": "total items in order"
+    },
+    "orderItemsLabel": {
+        "value": "items",
+        "_value.comment": "total items in order"
+    },
+    "orderPlacedOnLabel": {
+        "value": "Order placed on:",
+        "_value.comment": "label for order created date"
+    },
+    "orderStatusCanceled": {
+        "value": "Canceled",
+        "_value.comment": "Order status for order canceled"
+    },
+    "orderStatusEmailed": {
+        "value": "Emailed",
+        "_value.comment": "Order status for order emailed"
+    },
+    "orderStatusPickedUp": {
+        "value": "Picked up",
+        "_value.comment": "Order status for order picked up"
+    },
+    "orderStatusProcessing": {
+        "value": "Processing",
+        "_value.comment": "Order status for order processing"
+    },
+    "orderStatusReadyForPickup": {
+        "value": "Ready for pickup",
+        "_value.comment": "Order status for order pickup"
+    },
+    "orderStatusShipped": {
+        "value": "Shipped",
+        "_value.comment": "Order status for order shipped"
+    },
+    "orderSummaryGrandTotalLabel": {
+        "value": "Total",
+        "_value.comment": "Order summary grand total label"
+    },
+    "orderSummaryHeading": {
+        "value": "Order summary",
+        "_value.comment": "Order summary heading"
+    },
+    "orderSummaryItemsTotalLabel": {
+        "value": "Subtotal",
+        "_value.comment": "Order summary items total label"
+    },
+    "orderSummaryShippingFeeLabel": {
+        "value": "Shipping",
+        "_value.comment": "Order summary shipping fee label"
+    },
+    "orderSummaryTaxLabel": {
+        "value": "Tax",
+        "_value.comment": "Order summary tax label"
+    },
+    "orderSummaryTitle": {
+        "value": "Order summary",
+        "_value.comment": "Title for order summary"
+    },
+    "orderTemplateCloseButtonText": {
+        "value": "Close",
+        "_value.comment": "Text for the close button for order template Dialog"
+    },
+    "orderTemplateCreatedSuccessText": {
+        "value": "Order template created successfully",
+        "_value.comment": "Text for the success of creation new order template"
+    },
+    "orderTemplateCreationFailedText": {
+        "value": "Failed to create new order template",
+        "_value.comment": "Text for Failed to create new order template"
+    },
+    "orderTemplateListTitle": {
+        "value": "Order templates",
+        "_value.comment": "Order template list title"
+    },
+    "orderTemplateNameAriaLabel": {
+        "value": "Order template title",
+        "_value.comment": "Text for create order template dialog template name input aria label"
+    },
+    "orderTemplateTitle": {
+        "value": "Order template title",
+        "_value.comment": "Text for order template dialog title"
+    },
+    "orderTotal": {
+        "value": "Total",
+        "_value.comment": "String associated with order total line display text"
+    },
+    "orderTotalLabel": {
+        "value": "Amount Due",
+        "_value.comment": "Label for total order amount"
+    },
+    "ordersCountLabel": {
+        "value": "orders",
+        "_value.comment": "total sales orders in order history"
+    },
+    "originalPriceText": {
+        "value": "Original price",
+        "_value.comment": "String that corresponds to the original price screen reader text"
+    },
+    "otherCharges": {
+        "value": "Other charges",
+        "_value.comment": "String associated with other charge line display text"
+    },
+    "outOfStockErrorMessage": {
+        "value": "This product is no longer available. Please remove it from the bag.",
+        "_value.comment": "Display text for Out of stock error message"
+    },
+    "outOfStockErrorMessageHeader": {
+        "value": "There are some issues.",
+        "_value.comment": "Display text for Out of stock error message"
+    },
+    "outOfStockText": {
+        "value": "Sold Out",
+        "_value.comment": "out of stock text for wishlist item"
+    },
+    "pageReviewAriaLabel": {
+        "value": "Show {0}-{1} out of {2} reviews",
+        "_value.comment": "The string read by screen readers for the next/previous buttons. {0} is replaced by review start number, {1} is replaced by review end number and {2} is replaced by total reviews for the product."
+    },
+    "pageReviewCountText": {
+        "value": "Showing {0}-{1} out of {2} reviews",
+        "_value.comment": "The string to show the number of reviews which are shown on page. {0} is replaced by review start number, {1} is replaced by review end number and {2} is replaced by total reviews for the product."
+    },
+    "paginationAriaLabel": {
+        "value": "Page navigation example",
+        "_value.comment": "Text for pagination aria label"
+    },
+    "partialAddressErrorMessage": {
+        "value": "Address fields are optional. If you choose to submit an address, please complete the rest of the address fields.",
+        "_value.comment": "Error to show if user tries to submit a partial address"
+    },
+    "passwordEntryMismatchError": {
+        "value": "The password entry fields do not match. Please enter the same password in both fields and try again.",
+        "_value.comment": "Password mismatch error message."
+    },
+    "passwordLabelText": {
+        "value": "Password *",
+        "_value.comment": "Text display as label for password textbox."
+    },
+    "pauseLabel": {
+        "value": "pause",
+        "_value.comment": "Aria label for pause button"
+    },
+    "pausedLabel": {
+        "value": "paused",
+        "_value.comment": "Aria label for pause action"
+    },
+    "payFullAmountButtonText": {
+        "value": "Pay full amount",
+        "_value.comment": "Pay full amount button text for price editor"
+    },
+    "payInvoiceButtonAriaLabel": {
+        "value": "Click to pay invoice",
+        "_value.comment": "Aria label for Pay invoice button"
+    },
+    "payInvoiceButtonText": {
+        "value": "Pay invoice",
+        "_value.comment": "Text for Pay invoice button"
+    },
+    "payInvoiceErrorDialogBodyErrorDescription": {
+        "value": "In order to proceed you will need to purchase or clear any items in your shopping bag. Click review shopping bag to be taken to your order.",
+        "_value.comment": "Display text for pay invoice error dialog error description"
+    },
+    "payInvoiceErrorDialogBodyErrorTitle": {
+        "value": "Information",
+        "_value.comment": "Display text for pay invoice error dialog error title"
+    },
+    "payInvoiceErrorDialogFooterCancelButtonText": {
+        "value": "Cancel",
+        "_value.comment": "Display text for pay invoice error dialog cancel button"
+    },
+    "payInvoiceErrorDialogFooterGoToCartButtonText": {
+        "value": "Review shopping bag",
+        "_value.comment": "Display text for pay invoice error dialog go to cart button"
+    },
+    "payInvoiceErrorDialogHeader": {
+        "value": "Pay open invoices",
+        "_value.comment": "Display text for pay invoice error dialog header"
+    },
+    "payWithLoyaltyAmountLabel": {
+        "value": "Amount to use",
+        "_value.comment": "Label for input where user enters in amount to pay with loyalty program"
+    },
+    "payWithLoyaltyText": {
+        "value": "Pay with loyalty rewards",
+        "_value.comment": "Text for pay with loyalty dialog and header"
+    },
+    "paymentMethodsTitle": {
+        "value": "Payment method",
+        "_value.comment": "Title for payment methods"
+    },
+    "pendingPointsLabel": {
+        "value": "Pending",
+        "_value.comment": "Label for pending points"
+    },
+    "personalizationDescription": {
+        "value": "Allow personalized recommendations",
+        "_value.comment": "Personalization description."
+    },
+    "personalizationDisableButtonAriaLabel": {
+        "value": "Disable personalization",
+        "_value.comment": "Disable personalization button aria label."
+    },
+    "personalizationEnableButtonAriaLabel": {
+        "value": "Enable personalization",
+        "_value.comment": "Enable personalization button aria label."
+    },
+    "phoneAriaLabel": {
+        "value": "phone",
+        "_value.comment": "Aria label for phone"
+    },
+    "phoneLabel": {
+        "value": "Phone: ",
+        "_value.comment": "Phone label"
+    },
+    "phoneLabelText": {
+        "value": "Phone",
+        "_value.comment": "Text display as label for phone number textbox."
+    },
+    "phoneMaxLength": {
+        "value": "20",
+        "_value.comment": "Maximum number for character is allowed for phnoe number."
+    },
+    "pickItUpDisplayText": {
+        "value": "Pick this up",
+        "_value.comment": "String that corresponds to the pick it up display text"
+    },
+    "pickUpAtStoreText": {
+        "value": "Pick up at a store ",
+        "_value.comment": "Text for pick up at store checkbox"
+    },
+    "pickUpAtStoreWithLocationText": {
+        "value": "Pick up at a store ",
+        "_value.comment": "Text for pick up at store checkbox when location is specified"
+    },
+    "pickUpText": {
+        "value": "Pickup",
+        "_value.comment": "Text for pick up group heading"
+    },
+    "pickedUpSalesLines": {
+        "value": "Store pickup",
+        "_value.comment": "Store pickup title"
+    },
+    "pickingItemsLabel": {
+        "value": "Picking up {0} {1}",
+        "_value.comment": "Picking items label "
+    },
+    "pickupDateDefaultText": {
+        "value": "Please select a date",
+        "_value.comment": "Default text for pickup date dropdown"
+    },
+    "pickupDateLabel": {
+        "value": "Pickup date",
+        "_value.comment": "Label for pickup date dropdown"
+    },
+    "pickupDateRequired": {
+        "value": "Pickup date is required.",
+        "_value.comment": "Error message for missing pickup date"
+    },
+    "pickupDateTimeslotRequired": {
+        "value": "Pickup date and time slot are required.",
+        "_value.comment": "Error message for missing pickup date or time slot"
+    },
+    "pickupDateTimeslotText": {
+        "value": "Pickup date and time slot",
+        "_value.comment": "Label for pickup date and timeslot"
+    },
+    "pickupFilterByHeading": {
+        "value": "Filter by:",
+        "_value.comment": "Text for pickup dropdwon at Store Selector Header Level Heading"
+    },
+    "pickupFilterMenuHeading": {
+        "value": "All pickup methods",
+        "_value.comment": "Text for pickup dropdwon at Store Selector Header "
+    },
+    "pickupItemsHeader": {
+        "value": "Pickup address",
+        "_value.comment": "Header for pickup items group"
+    },
+    "pickupLocationLabel": {
+        "value": "Pickup location",
+        "_value.comment": "Label for pickup location"
+    },
+    "pickupTimeslotDefaultText": {
+        "value": "Please select a time slot",
+        "_value.comment": "Default text for pickup timeslot dropdown"
+    },
+    "pickupTimeslotLabel": {
+        "value": "Pickup time slot",
+        "_value.comment": "Label for pickup timeslot dropdown"
+    },
+    "pickupTimeslotPlaceHolder": {
+        "value": "{0} - {1}",
+        "_value.comment": "Placeholder for time slot data, in the format of from start time to end time, e.g., 9:00 - 10:00"
+    },
+    "pickupTimeslotRequired": {
+        "value": "Pickup time slot is required.",
+        "_value.comment": "Error message for missing pickup time slot"
+    },
+    "placeOrderText": {
+        "value": "Place order",
+        "_value.comment": "Text for the checkout button to place the order"
+    },
+    "placeholderTextMax": {
+        "value": "No Max",
+        "_value.comment": "Placeholder text to display on the maximum input box for input range refiners"
+    },
+    "playLabel": {
+        "value": "play",
+        "_value.comment": "Aria label for play button"
+    },
+    "playingLabel": {
+        "value": "playing",
+        "_value.comment": "Aria label for play action"
+    },
+    "pointsEarnedLabel": {
+        "value": "Points earned",
+        "_value.comment": "Label for the amount of loyalty points earned"
+    },
+    "posChannelNameText": {
+        "value": "Purchased at ",
+        "_value.comment": "String to show POS channel name"
+    },
+    "preferredStoreAriaLabel": {
+        "value": "Preferred store",
+        "_value.comment": "Text for preferred store"
+    },
+    "preferredStoreText": {
+        "value": "Preferred store",
+        "_value.comment": "Text for preferred store"
+    },
+    "previousButtonText": {
+        "value": "Previous",
+        "_value.comment": "The label which is shown on previous button"
+    },
+    "previousScreenshotFlipperText": {
+        "value": "Previous",
+        "_value.comment": "The label which is shown on 'previous screenshot' flipper"
+    },
+    "priceEditorInputAriaLabel": {
+        "value": "Enter invoice amount to pay",
+        "_value.comment": "Aria label for price editor in cart lines"
+    },
+    "priceFree": {
+        "value": "Free",
+        "_value.comment": "Text to show when product is free"
+    },
+    "priceRangeSeparator": {
+        "value": " - ",
+        "_value.comment": "Separator when showing price range"
+    },
+    "privacyPolicyTextFormat": {
+        "value": "By clicking submit, you accept our {0}.",
+        "_value.comment": "The Privacy policy text shown to user's writing a review"
+    },
+    "privacyPolicyTitle": {
+        "value": "Privacy Policy",
+        "_value.comment": "Privacy Policy"
+    },
+    "processingLabel": {
+        "value": "Processing",
+        "_value.comment": "Text for order in processing state"
+    },
+    "productActionsText": {
+        "value": "Actions",
+        "_value.comment": "Text for the actions column of the product table"
+    },
+    "productCountAriaLabel": {
+        "value": "{0} products have this rating",
+        "_value.comment": "The aria label used for the number of products made for this rating"
+    },
+    "productDimensionTypeAmount": {
+        "value": "Amount",
+        "_value.comment": "String that corresponds to the Style Product Dimension Type (4) for gift card product"
+    },
+    "productDimensionTypeAmountErrorMessage": {
+        "value": "Amount is required. Please choose an Amount",
+        "_value.comment": "Error string to show when the user has not selected a style(Amount) for gift card product."
+    },
+    "productDimensionTypeColor": {
+        "value": "Color",
+        "_value.comment": "String that corresponds to the Color Product Dimension Type (1)"
+    },
+    "productDimensionTypeColorErrorMessage": {
+        "value": "Color is required. Please choose a color",
+        "_value.comment": "Error string to show when the user has not selected a color"
+    },
+    "productDimensionTypeConfiguration": {
+        "value": "Configuration",
+        "_value.comment": "String that corresponds to the Configuration Product Dimension Type (2)"
+    },
+    "productDimensionTypeConfigurationErrorMessage": {
+        "value": "Configuration is required. Please choose a configuration",
+        "_value.comment": "Error string to show when the user has not selected a configuration"
+    },
+    "productDimensionTypeSize": {
+        "value": "Size",
+        "_value.comment": "String that corresponds to the Size Product Dimension Type (3)"
+    },
+    "productDimensionTypeSizeErrorMessage": {
+        "value": "Size is required. Please choose a size",
+        "_value.comment": "Error string to show when the user has not selected a size"
+    },
+    "productDimensionTypeStyle": {
+        "value": "Style",
+        "_value.comment": "String that corresponds to the Style Product Dimension Type (4)"
+    },
+    "productDimensionTypeStyleErrorMessage": {
+        "value": "Style is required. Please choose a style",
+        "_value.comment": "Error string to show when the user has not selected a style"
+    },
+    "productNumberText": {
+        "value": "Product number",
+        "_value.comment": "Name of the product number column of the product table"
+    },
+    "productQuantityHeading": {
+        "value": "Quantity",
+        "_value.comment": "Heading/label for the quantity input"
+    },
+    "productQuantityInfo": {
+        "value": "Quantity {0} of {1}",
+        "_value.comment": "Text to read the quantity of given product"
+    },
+    "productQuantityText": {
+        "value": "Quantity",
+        "_value.comment": "Text for the quantity column of the product table"
+    },
+    "productSuggestionHeading": {
+        "value": "Go to products",
+        "_value.comment": "Product suggestion type search results list heading title"
+    },
+    "productText": {
+        "value": "Product",
+        "_value.comment": "Name of the product column of the product table"
+    },
+    "productUOMText": {
+        "value": "UOM",
+        "_value.comment": "Text for the unit of measure column of the product table"
+    },
+    "productUnitPriceText": {
+        "value": "Unit price",
+        "_value.comment": "Name of the product unit price column of the product table"
+    },
+    "profanityContentText": {
+        "value": "Contains profanity",
+        "_value.comment": "The text which is shown in review when the user wants to report profanity content"
+    },
+    "progressNotificationText": {
+        "value": "Loading...",
+        "_value.comment": "Text for progress indicator"
+    },
+    "promoCodeApplyButtonText": {
+        "value": "Apply",
+        "_value.comment": "Promo code apply button text"
+    },
+    "promoCodeHeadingText": {
+        "value": "Promo code",
+        "_value.comment": "Heading text for promo code"
+    },
+    "promoPlaceholderText": {
+        "value": "Enter a promo code",
+        "_value.comment": "Promo code placeholder text"
+    },
+    "promotionCloseButtonAriaLabel": {
+        "value": "Close",
+        "_value.comment": "Aria label for the promotion popup close button"
+    },
+    "promotionLinkText": {
+        "value": "See all",
+        "_value.comment": "Text to be displayed in the link that opens the promotion"
+    },
+    "promotionPopupHeading": {
+        "value": "Available Promotions",
+        "_value.comment": "Text to be displayed in the heading of the promotion popup"
+    },
+    "promotionStringHeading": {
+        "value": "We found offers available based on the items on the cart.",
+        "_value.comment": "Text to be displayed in the promotion banner"
+    },
+    "publisherResponseBadgeText": {
+        "value": "{0} responded on {1}",
+        "_value.comment": "The text which is shown on publisher response for any review. {0} is replaced by publisher name and {1} is replaced by response date"
+    },
+    "qrCodeSrText": {
+        "value": "Scan QR Code",
+        "_value.comment": "Screen reader text for QR Code"
+    },
+    "quantityDisplayString": {
+        "value": "Quantity",
+        "_value.comment": "Quantity of line item"
+    },
+    "quantityDisplayText": {
+        "value": "Quantity",
+        "_value.comment": "String that corresponds to the quantity display text"
+    },
+    "quantitySelectLabel": {
+        "value": "Quantity",
+        "_value.comment": "Text label for the quantity form control"
+    },
+    "quickOrderActionsText": {
+        "value": "Actions",
+        "_value.comment": "Actions column text for quick order table view header"
+    },
+    "quickOrderAddedToCartFailureMessage": {
+        "value": "Add to cart failed. Please refresh and retry",
+        "_value.comment": "Message to show when add to cart fails"
+    },
+    "quickOrderAddedToCartSuccessMessage": {
+        "value": "Added to your cart",
+        "_value.comment": "Added to cart friendly message"
+    },
+    "quickOrderAddtobag": {
+        "value": "ADD TO CART",
+        "_value.comment": "Label to show on Add to bag button"
+    },
+    "quickOrderDecrementButtonAriaLabel": {
+        "value": "Press to decrease the quantity by 1",
+        "_value.comment": "Aria label for the quantity decrease button on quick order"
+    },
+    "quickOrderGridActionsText": {
+        "value": "Actions",
+        "_value.comment": "Actions column text for quick order table view header"
+    },
+    "quickOrderGridAddedToCartFailureMessage": {
+        "value": "Add to cart failed. Please refresh and retry",
+        "_value.comment": "Message to show when add to cart fails"
+    },
+    "quickOrderGridAddedToCartSuccessMessage": {
+        "value": "Added to your cart",
+        "_value.comment": "Added to cart friendly message"
+    },
+    "quickOrderGridAddedToGridDuplicateError": {
+        "value": "This product variant already exists in this quick order grid.",
+        "_value.comment": "Error message for API error when products added to the product list"
+    },
+    "quickOrderGridAddedToGridFailureMessage": {
+        "value": "Add to grid failed. Please refresh and retry",
+        "_value.comment": "Message to show when add to grid fails"
+    },
+    "quickOrderGridAddedToGridSuccessMessage": {
+        "value": "Added to below grid",
+        "_value.comment": "Added to grid friendly message"
+    },
+    "quickOrderGridAddtogrid": {
+        "value": "Add to quick order",
+        "_value.comment": "Label to show on Add to quick order button"
+    },
+    "quickOrderGridBuySelectedAddingToCartErrorNotificationCloseAriaLabel": {
+        "value": "Close",
+        "_value.comment": "Aria label for close error notification button"
+    },
+    "quickOrderGridBuySelectedAddingToCartErrorNotificationTitle": {
+        "value": "Failed to add selected lines to cart",
+        "_value.comment": "Text for error notification title which is shown in case adding to cart failed"
+    },
+    "quickOrderGridBuySelectedButtonAriaLabel": {
+        "value": "Add selected to bag",
+        "_value.comment": "Add selected to bag button aria label"
+    },
+    "quickOrderGridBuySelectedButtonText": {
+        "value": "Move all to bag",
+        "_value.comment": "Add selected to bag button text"
+    },
+    "quickOrderGridDecrementButtonAriaLabel": {
+        "value": "Press to decrease the quantity by 1",
+        "_value.comment": "Aria label for the quantity decrease button on quick order"
+    },
+    "quickOrderGridDeleteButtonText": {
+        "value": "Clear all",
+        "_value.comment": "Text for the delete button of quick order grid"
+    },
+    "quickOrderGridDeleteProductListFailedText": {
+        "value": "Failed to delete product list",
+        "_value.comment": "Text for the failure in deleting complete product list"
+    },
+    "quickOrderGridDialogCloseText": {
+        "value": "Close",
+        "_value.comment": "Text to show on close button for item added dialog"
+    },
+    "quickOrderGridGoToCartText": {
+        "value": "View bag and checkout",
+        "_value.comment": "Text to show on Button to view cart"
+    },
+    "quickOrderGridHeaderMessageText": {
+        "value": " added to bag",
+        "_value.comment": "Text to show if a item is added to the bag"
+    },
+    "quickOrderGridIncrementButtonAriaLabel": {
+        "value": "Press to increment quantity by 1",
+        "_value.comment": "Aria label for the quantity increment button on quick order"
+    },
+    "quickOrderGridInputQuantityAriaLabel": {
+        "value": "Quantity To Purchase",
+        "_value.comment": "Aria label for the input quantity on quick order"
+    },
+    "quickOrderGridMaxQuantityLimitText": {
+        "value": "You already have {curQuantity} of this item in your shopping bag. You can only add {maxQuantity} of this item to your shopping bag",
+        "_value.comment": "String to show message that you've reached max quantity"
+    },
+    "quickOrderGridModuleDescription": {
+        "value": "Enter product SKU# to find a product. Select product variants and add to the Quick order. You can review all the products before adding them to the shopping bag.",
+        "_value.comment": "Label to show Module Description"
+    },
+    "quickOrderGridModuleHeading": {
+        "value": "Quick add",
+        "_value.comment": "Label to show Module Heading"
+    },
+    "quickOrderGridModulePageHeading": {
+        "value": "Quick order",
+        "_value.comment": "Heading text of Module at page Parent"
+    },
+    "quickOrderGridMultiLineItemFormatText": {
+        "value": "{0} items",
+        "_value.comment": "Text to show if multiple items added"
+    },
+    "quickOrderGridMultiLinesFormatText": {
+        "value": "{0} lines",
+        "_value.comment": "Text to show multiple lines added"
+    },
+    "quickOrderGridProductDimensionTypeAmount": {
+        "value": "Amount",
+        "_value.comment": "String that corresponds to the Style Product Dimension Type (4) for gift card product."
+    },
+    "quickOrderGridProductDimensionTypeColor": {
+        "value": "Color",
+        "_value.comment": "String that corresponds to the Color Product Dimension Type (1)"
+    },
+    "quickOrderGridProductDimensionTypeConfiguration": {
+        "value": "Configuration",
+        "_value.comment": "String that corresponds to the Configuration Product Dimension Type (2)"
+    },
+    "quickOrderGridProductDimensionTypeSize": {
+        "value": "Size",
+        "_value.comment": "String that corresponds to the Size Product Dimension Type (3)"
+    },
+    "quickOrderGridProductDimensionTypeStyle": {
+        "value": "Style",
+        "_value.comment": "String that corresponds to the Style Product Dimension Type (4)"
+    },
+    "quickOrderGridProductDimensionsSeparator": {
+        "value": ", ",
+        "_value.comment": "Separator for product dimensions"
+    },
+    "quickOrderGridProductInputLabel": {
+        "value": "Product",
+        "_value.comment": "Label to describe input box for product sku number"
+    },
+    "quickOrderGridProductNumberText": {
+        "value": "Product number",
+        "_value.comment": "Product number column text for quick order table view header"
+    },
+    "quickOrderGridProductQuantityInputLabel": {
+        "value": "Quantity",
+        "_value.comment": "Label to describe input box for quantity"
+    },
+    "quickOrderGridProductText": {
+        "value": "Product",
+        "_value.comment": "Product column text for quick order table view header"
+    },
+    "quickOrderGridQuantityMobileText": {
+        "value": "Quantity : {0}",
+        "_value.comment": "Label to describe quantity for quick order mobile row"
+    },
+    "quickOrderGridQuantityText": {
+        "value": "Quantity",
+        "_value.comment": "Quantity column text for quick order table view header"
+    },
+    "quickOrderGridRemoveItemButtonAriaLabel": {
+        "value": "Remove",
+        "_value.comment": "Remove button aria label for extra actions in row desktop view"
+    },
+    "quickOrderGridSelectDimensionFormatString": {
+        "value": "Choose a {0}",
+        "_value.comment": "Text to show indicating user should select a dimension (i.e. 'Choose a color')"
+    },
+    "quickOrderGridSingleItemText": {
+        "value": "1 item",
+        "_value.comment": "Text to show if one item is added"
+    },
+    "quickOrderGridTotalText": {
+        "value": "Total",
+        "_value.comment": "Total column text for quick order table view header"
+    },
+    "quickOrderGridUnitOfMeasureText": {
+        "value": "UOM",
+        "_value.comment": "Unit of measure column text for quick order table view header"
+    },
+    "quickOrderGridUnitPriceText": {
+        "value": "Unit price",
+        "_value.comment": "Unit price column text for quick order table view header"
+    },
+    "quickOrderGridViewDetailsButtonAriaLabel": {
+        "value": "View details",
+        "_value.comment": "View details button aria label for extra actions popup in the mobile view"
+    },
+    "quickOrderGridViewDetailsButtonText": {
+        "value": "View details",
+        "_value.comment": "View details button text for extra actions popup in the mobile view"
+    },
+    "quickOrderGridWrongQuantityErrorMsg": {
+        "value": "Please enter valid quantity",
+        "_value.comment": "Error string to show when the user not entered correct quantity."
+    },
+    "quickOrderGridproductDimensionTypeAmountErrorMessage": {
+        "value": "Amount is required. Please choose an Amount",
+        "_value.comment": "Error string to show when the user has not selected a style(Amount) for gift card product."
+    },
+    "quickOrderGridproductDimensionTypeColorErrorMessage": {
+        "value": "Color is required. Please choose a color",
+        "_value.comment": "Error string to show when the user has not selected a color"
+    },
+    "quickOrderGridproductDimensionTypeConfigurationErrorMessage": {
+        "value": "Configuration is required. Please choose a configuration",
+        "_value.comment": "Error string to show when the user has not selected a configuration"
+    },
+    "quickOrderGridproductDimensionTypeSizeErrorMessage": {
+        "value": "Size is required. Please choose a size",
+        "_value.comment": "Error string to show when the user has not selected a size"
+    },
+    "quickOrderGridproductDimensionTypeStyleErrorMessage": {
+        "value": "Style is required. Please choose a style",
+        "_value.comment": "Error string to show when the user has not selected a style"
+    },
+    "quickOrderIncrementButtonAriaLabel": {
+        "value": "Press to increment quantity by 1",
+        "_value.comment": "Aria label for the quantity increment button on quick order"
+    },
+    "quickOrderInputQuantityAriaLabel": {
+        "value": "Quantity To Purchase",
+        "_value.comment": "Aria label for the input quantity on quick order"
+    },
+    "quickOrderMaxQuantityLimitText": {
+        "value": "You already have {curQuantity} of this item in your shopping bag. You can only add {maxQuantity} of this item to your shopping bag",
+        "_value.comment": "String to show message that you've reached max quantity"
+    },
+    "quickOrderModuleDescription": {
+        "value": "Enter product SKU# to find a product. Select product variants and add to the Quick order. You can review all the products before adding them to the shopping bag.",
+        "_value.comment": "Label to show Module Description"
+    },
+    "quickOrderModuleHeading": {
+        "value": "Quick add",
+        "_value.comment": "Label to show Module Heading"
+    },
+    "quickOrderProductDimensionTypeAmount": {
+        "value": "Amount",
+        "_value.comment": "String that corresponds to the Style Product Dimension Type (4) for gift card product."
+    },
+    "quickOrderProductDimensionTypeColor": {
+        "value": "Color",
+        "_value.comment": "String that corresponds to the Color Product Dimension Type (1)"
+    },
+    "quickOrderProductDimensionTypeConfiguration": {
+        "value": "Configuration",
+        "_value.comment": "String that corresponds to the Configuration Product Dimension Type (2)"
+    },
+    "quickOrderProductDimensionTypeSize": {
+        "value": "Size",
+        "_value.comment": "String that corresponds to the Size Product Dimension Type (3)"
+    },
+    "quickOrderProductDimensionTypeStyle": {
+        "value": "Style",
+        "_value.comment": "String that corresponds to the Style Product Dimension Type (4)"
+    },
+    "quickOrderProductDimensionsSeparator": {
+        "value": ", ",
+        "_value.comment": "Separator for product dimensions"
+    },
+    "quickOrderProductInputLabel": {
+        "value": "Product",
+        "_value.comment": "Label to describe input box for product sku number"
+    },
+    "quickOrderProductNumberText": {
+        "value": "Product number",
+        "_value.comment": "Product number column text for quick order table view header"
+    },
+    "quickOrderProductQuantityInputLabel": {
+        "value": "Quantity",
+        "_value.comment": "Label to describe input box for quantity"
+    },
+    "quickOrderProductText": {
+        "value": "Product",
+        "_value.comment": "Product column text for quick order table view header"
+    },
+    "quickOrderQuantityMobileText": {
+        "value": "Quantity : {0}",
+        "_value.comment": "Label to describe quantity for quick order mobile row"
+    },
+    "quickOrderQuantityText": {
+        "value": "Quantity",
+        "_value.comment": "Quantity column text for quick order table view header"
+    },
+    "quickOrderRemoveItemButtonAriaLabel": {
+        "value": "Remove",
+        "_value.comment": "Remove button aria label for extra actions in row desktop view"
+    },
+    "quickOrderSelectDimensionFormatString": {
+        "value": "Choose a {0}",
+        "_value.comment": "Text to show indicating user should select a dimension (i.e. 'Choose a color')"
+    },
+    "quickOrderTotalText": {
+        "value": "Total",
+        "_value.comment": "Total column text for quick order table view header"
+    },
+    "quickOrderUnitOfMeasureText": {
+        "value": "UOM",
+        "_value.comment": "Unit of measure column text for quick order table view header"
+    },
+    "quickOrderUnitPriceText": {
+        "value": "Unit price",
+        "_value.comment": "Unit price column text for quick order table view header"
+    },
+    "quickOrderViewDetailsButtonAriaLabel": {
+        "value": "View details",
+        "_value.comment": "View details button aria label for extra actions popup in the mobile view"
+    },
+    "quickOrderViewDetailsButtonText": {
+        "value": "View details",
+        "_value.comment": "View details button text for extra actions popup in the mobile view"
+    },
+    "quickOrderWrongQuantityErrorMsg": {
+        "value": "Please enter valid quantity",
+        "_value.comment": "Error string to show when the user not entered correct quantity."
+    },
+    "quickOrderproductDimensionTypeAmountErrorMessage": {
+        "value": "Amount is required. Please choose an Amount",
+        "_value.comment": "Error string to show when the user has not selected a style(Amount) for gift card product."
+    },
+    "quickOrderproductDimensionTypeColorErrorMessage": {
+        "value": "Color is required. Please choose a color",
+        "_value.comment": "Error string to show when the user has not selected a color"
+    },
+    "quickOrderproductDimensionTypeConfigurationErrorMessage": {
+        "value": "Configuration is required. Please choose a configuration",
+        "_value.comment": "Error string to show when the user has not selected a configuration"
+    },
+    "quickOrderproductDimensionTypeSizeErrorMessage": {
+        "value": "Size is required. Please choose a size",
+        "_value.comment": "Error string to show when the user has not selected a size"
+    },
+    "quickOrderproductDimensionTypeStyleErrorMessage": {
+        "value": "Style is required. Please choose a style",
+        "_value.comment": "Error string to show when the user has not selected a style"
+    },
+    "quickViewAriaLabel": {
+        "value": "Quick View for {0}",
+        "_value.comment": "Aria Label for quick view modal popup"
+    },
+    "quickViewbuttonText": {
+        "value": "ADD TO CART",
+        "_value.comment": "Button text for quick view popup"
+    },
+    "rangeNameFormat": {
+        "value": "{0} Range",
+        "_value.comment": "Format of name to display on range refiner min-max groups"
+    },
+    "ratingAriaLabel": {
+        "value": "Average {0} of {1} stars",
+        "_value.comment": "Text to show for rating aria label"
+    },
+    "ratingCountAriaLabel": {
+        "value": "{0} users rated this product.",
+        "_value.comment": "The aria label used for the number of ratings made for this product"
+    },
+    "ratingCountAriaLabelSingleUser": {
+        "value": "{0} user rated this product.",
+        "_value.comment": "The aria label used for the single rating made for this product"
+    },
+    "ratingReviewText": {
+        "value": "review",
+        "_value.comment": "The text review for rating count one"
+    },
+    "ratingReviewsText": {
+        "value": "reviews",
+        "_value.comment": "The text reviews for rating count more than one"
+    },
+    "receiptEmailMessage": {
+        "value": "Confirmation email sent to ",
+        "_value.comment": "Label for reciept email"
+    },
+    "receiptIdLabel": {
+        "value": "Receipt#",
+        "_value.comment": "Receipt id label"
+    },
+    "redeemedPointsLabel": {
+        "value": "Redeemed",
+        "_value.comment": "Label for redeemed points"
+    },
+    "refundedPointsLabel": {
+        "value": "Redeemed",
+        "_value.comment": "Label for refunded points"
+    },
+    "removeAddressNotification": {
+        "value": "{0} address has been removed",
+        "_value.comment": "Screen reader text notification for the removed address"
+    },
+    "removeButtonAriaLabel": {
+        "value": "Remove from wishlist",
+        "_value.comment": "Aria label for the remove button"
+    },
+    "removeButtonText": {
+        "value": "Remove from wishlist",
+        "_value.comment": "Text for the remove button"
+    },
+    "removeCartButtonText": {
+        "value": "Remove",
+        "_value.comment": "Text for the remove button"
+    },
+    "removeCheckoutLoyaltyPaymentText": {
+        "value": "Remove",
+        "_value.comment": "Text for button that removes the loyalty payment set"
+    },
+    "removeCustomerAccountPaymentLabel": {
+        "value": "Remove",
+        "_value.comment": "The label for the remove button on a customer account payment"
+    },
+    "removeFromWishlistButtonText": {
+        "value": "Remove from wishlist",
+        "_value.comment": "Label for Remove from wishlist button"
+    },
+    "removeGiftCardButton": {
+        "value": "Remove",
+        "_value.comment": "Label for remove gift card button"
+    },
+    "removeItemFromOrderTemplateButtonText": {
+        "value": "Remove from order template",
+        "_value.comment": "Text for the remove button"
+    },
+    "removeItemFromWishlistError": {
+        "value": "Unable to remove item from wishlist",
+        "_value.comment": "For showing error message on removing from wishlist"
+    },
+    "removePromoAriaLabelFormat": {
+        "value": "{0} {1}",
+        "_value.comment": "Promo aria label format"
+    },
+    "removePromoText": {
+        "value": "Remove",
+        "_value.comment": "Promo code remove button text"
+    },
+    "removeSelectedFailureMessage": {
+        "value": "Failed to remove selected lines, please try again",
+        "_value.comment": "Message to show when order template successfully added to cart"
+    },
+    "removeSelectedSuccessMessage": {
+        "value": "Selected lines successfully removed",
+        "_value.comment": "Message to show when order template successfully added to cart"
+    },
+    "removeSelectedToBagButtonText": {
+        "value": "Remove selected",
+        "_value.comment": "Text for the add to bag button"
+    },
+    "removedFromWishlistMessage": {
+        "value": "Removed from your wishlist",
+        "_value.comment": "Text for showing removing item from your wishlist"
+    },
+    "renameOrderTemplateButtonText": {
+        "value": "Save",
+        "_value.comment": "Text for the button in the rename template dialog when the changes should be applied"
+    },
+    "renameOrderTemplateTitleText": {
+        "value": "Rename the order template",
+        "_value.comment": "Text for title of the rename template dialog"
+    },
+    "renameTemplateButtonText": {
+        "value": "Rename template",
+        "_value.comment": "Text for the rename template button"
+    },
+    "reportConcernText": {
+        "value": "Report",
+        "_value.comment": "Label for report a concern dropdown"
+    },
+    "reportModalMessage": {
+        "value": "If you find this content inappropriate and think it should be removed from the this site, let us know.",
+        "_value.comment": "Message to show in modal a user is reporting a review"
+    },
+    "reportReviewButtonText": {
+        "value": "Report",
+        "_value.comment": "Button text for the buttons that reports a review"
+    },
+    "reportSpamText": {
+        "value": "Contains spam or advertising",
+        "_value.comment": "The text which is shown in review when the user wants to report spam"
+    },
+    "reportSubmittedMessage": {
+        "value": "We have received your feedback. One of our staff members will look into this review soon.",
+        "_value.comment": "Message to show when a review is successfully reported"
+    },
+    "reportedText": {
+        "value": "Reported",
+        "_value.comment": "Text displayed after a review is reported"
+    },
+    "requestInvoiceDialogAriaLabel": {
+        "value": "Request invoice",
+        "_value.comment": "Aria label for request invoice dialog."
+    },
+    "requestStatementButtonLabel": {
+        "value": "Request a statement",
+        "_value.comment": "Label for the request account statement button"
+    },
+    "requiredFieldMissingError": {
+        "value": "This information is required.",
+        "_value.comment": "Field missing error message."
+    },
+    "requiredFieldMissingSummaryError": {
+        "value": "A required field is missing. Please fill out all required fields and try again.",
+        "_value.comment": "Field missing error summary."
+    },
+    "requiredValueMissingErrorMessage": {
+        "value": "Please enter a value.",
+        "_value.comment": "The error message shown above the field which required the user to provide value before submitting the form."
+    },
+    "requriedEmailError": {
+        "value": "Please enter your email address.",
+        "_value.comment": "Error to display when user didn't enter email address."
+    },
+    "requriedPasswordError": {
+        "value": "Please enter your password.",
+        "_value.comment": "Error to display when user didn't enter password address."
+    },
+    "resendCodeButtonAriaLabel": {
+        "value": "Send new code",
+        "_value.comment": "Re-Send code button aria label."
+    },
+    "resendCodeButtonText": {
+        "value": "Send new code",
+        "_value.comment": "Re-Send code button text."
+    },
+    "resultCategoryNotFoundText": {
+        "value": "No products found for the selected category",
+        "_value.comment": "Result not found text for category page"
+    },
+    "resultSearchNotFoundText": {
+        "value": "No products found for the given search term",
+        "_value.comment": "Result not found text for search page"
+    },
+    "retryError": {
+        "value": "That code is incorrect. Please try again.",
+        "_value.comment": "Error to display when user entered invalid code."
+    },
+    "retryNotAllowedError": {
+        "value": "You have made too many incorrect attempts. Please try again later.",
+        "_value.comment": "Error to display when user entered invalid code to many time and no more try is allowed."
+    },
+    "reviewAriaLabel": {
+        "value": "Review Descritpion",
+        "_value.comment": "Aria label for review description."
+    },
+    "reviewButtonLabel": {
+        "value": "Write a review",
+        "_value.comment": "The label for the button which starts the rate and review flow"
+    },
+    "reviewRatingNarratorText": {
+        "value": "User Rating: {0} out of 5",
+        "_value.comment": "Aria label for review rating."
+    },
+    "reviewTextLabel": {
+        "value": "Review *",
+        "_value.comment": "Label for the review text"
+    },
+    "reviewTitleAriaLabel": {
+        "value": "Review Title",
+        "_value.comment": "Aria label for review title."
+    },
+    "reviewTitleLabel": {
+        "value": "Title *",
+        "_value.comment": "Label for the title of the review"
+    },
+    "salesLineQuantityText": {
+        "value": "Qty",
+        "_value.comment": "Sales line quantity label"
+    },
+    "saveAndContinueBtnLabel": {
+        "value": "Save & continue",
+        "_value.comment": "Save and continue button label"
+    },
+    "saveBtnAriaLabel": {
+        "value": "Save",
+        "_value.comment": "Save button aria label"
+    },
+    "saveBtnLabel": {
+        "value": "Save",
+        "_value.comment": "Save button label"
+    },
+    "saveButtonAriaLabel": {
+        "value": "Save",
+        "_value.comment": "Save button aria label."
+    },
+    "saveButtonText": {
+        "value": "Save",
+        "_value.comment": "Save button text."
+    },
+    "saveForLaterText": {
+        "value": "Move to Wishlist",
+        "_value.comment": "string to save for later text"
+    },
+    "searchBtnAriaLabel": {
+        "value": "Search",
+        "_value.comment": "Text for search button aria label"
+    },
+    "searchButtonAriaLabel": {
+        "value": "Search",
+        "_value.comment": "Aria Label for the search button"
+    },
+    "searchErrorMessage": {
+        "value": "Search error",
+        "_value.comment": "Text message for a search API request error"
+    },
+    "searchInputAriaLabel": {
+        "value": "Enter ZIP code or city, state",
+        "_value.comment": "Aria Label for the search input"
+    },
+    "searchLabelArialLabel": {
+        "value": "Search",
+        "_value.comment": "Text for search label aria label"
+    },
+    "searchModalPlaceholderText": {
+        "value": "Enter a product name or SKU#",
+        "_value.comment": "Placeholder text for the add to template modal"
+    },
+    "searchPlaceholderText": {
+        "value": "Enter ZIP code or city, state",
+        "_value.comment": "Placeholder Text for Search By Location"
+    },
+    "searchResultsCountSubject": {
+        "value": "product",
+        "_value.comment": "Notification message subject term, allows for pluralization"
+    },
+    "searchResultsCountVerbage": {
+        "value": "We found {count} {subject} based on your search.",
+        "_value.comment": "Notification message of number of search results"
+    },
+    "searchTextPrefix": {
+        "value": "Results for ",
+        "_value.comment": "Sets the prefix to the search text to display as the collection title if a search was performed"
+    },
+    "searchtext": {
+        "value": "Search",
+        "_value.comment": "Search label text"
+    },
+    "seeAllStoresText": {
+        "value": "See all stores",
+        "_value.comment": "Text for see all stores link"
+    },
+    "seeMoreButtonText": {
+        "value": "SEE MORE",
+        "_value.comment": "See more button text"
+    },
+    "seekBarLabel": {
+        "value": "Seek bar",
+        "_value.comment": "Video player slider label"
+    },
+    "selectAllRowsText": {
+        "value": "Select all rows",
+        "_value.comment": "ARIA Text to show when user can select all rows"
+    },
+    "selectDimensionFormatString": {
+        "value": "Choose a {0}",
+        "_value.comment": "Text to show indicating user should select a dimension (i.e. 'Choose a color')"
+    },
+    "selectLoyaltyProgramLabel": {
+        "value": "Select a loyalty program",
+        "_value.comment": "Label paired with dropdown to select a loyalty program"
+    },
+    "selectOneRowText": {
+        "value": "Select this row",
+        "_value.comment": "ARIA Text to show when user can select one row"
+    },
+    "selectProductButtonText": {
+        "value": "Select product",
+        "_value.comment": "Text for the select product for configuration button"
+    },
+    "selectRatingAriaLabel": {
+        "value": "Set ratings from 1 to 5 stars",
+        "_value.comment": "Aria label set for selecting the rating while writing a review"
+    },
+    "selectRatingLabel": {
+        "value": "Choose a rating ",
+        "_value.comment": "Label for selecting the rating while writing a review"
+    },
+    "selectStoreAriaFormatText": {
+        "value": "Pick up at {StoreName}",
+        "_value.comment": "Aria label text for selecting store for pickup. {StoreName} = name of store"
+    },
+    "selectStoreText": {
+        "value": "Pick up here",
+        "_value.comment": "Button text for selecting store for pickup"
+    },
+    "selectTemplatesText": {
+        "value": "Select a template or create a new one. You have {0} template(s).",
+        "_value.comment": "Text for add to order template dialog description"
+    },
+    "selectedStoreLocationText": {
+        "value": "Selected store location",
+        "_value.comment": "Text to show in place of button if location is selected for the product"
+    },
+    "selectedUserLabel": {
+        "value": "Selected user",
+        "_value.comment": "The label for the selected user"
+    },
+    "sendCodeButtonAriaLabel": {
+        "value": "Send verification code",
+        "_value.comment": "Send code button aria label."
+    },
+    "sendCodeButtonText": {
+        "value": "Send verification code",
+        "_value.comment": "Send code button text."
+    },
+    "sendToEmailLabel": {
+        "value": "Send to email",
+        "_value.comment": "Label for the email the account request will be sent to."
+    },
+    "serverError": {
+        "value": "We are having trouble verifying your email address. Please enter a valid email address and try again.",
+        "_value.comment": "Error to display on server error."
+    },
+    "setAsPreferredStoreText": {
+        "value": "Set as preferred store",
+        "_value.comment": "Button text for set as preferred store"
+    },
+    "setAsPreferredStoreTextAriaLabel": {
+        "value": "Set as preferred store",
+        "_value.comment": "Aria label for set as preferred store"
+    },
+    "shipInsteadDisplayText": {
+        "value": "Ship this item",
+        "_value.comment": "String that corresponds to the ship instead display text"
+    },
+    "shipToAddressDisplayText": {
+        "value": "Ship to an address",
+        "_value.comment": "String that corresponds to the ship it to an address display text"
+    },
+    "shipToLabel": {
+        "value": "Ship to",
+        "_value.comment": "Ship to label"
+    },
+    "shippingAddressTitle": {
+        "value": "Shipping address",
+        "_value.comment": "Title for shipping address"
+    },
+    "shippingCharges": {
+        "value": "Shipping charges",
+        "_value.comment": "String associated with shipping charges line display text"
+    },
+    "shippingCountCheckoutLineItem": {
+        "value": "Shipping ({count} {suffix})",
+        "_value.comment": "Shipping label"
+    },
+    "shippingItemToYouLabel": {
+        "value": "Shipping {0} {1} to you",
+        "_value.comment": "Shipping items to you label"
+    },
+    "shippingLabel": {
+        "value": "Shipping",
+        "_value.comment": "Label of shipping"
+    },
+    "shippingLable": {
+        "value": "Shipping",
+        "_value.comment": "Shipping Heading"
+    },
+    "shippingText": {
+        "value": "Shipping",
+        "_value.comment": "Text for shipping group heading"
+    },
+    "shopSimilarDescriptionText": {
+        "value": "Shop similar description",
+        "_value.comment": "Text to show on Shop similar description button"
+    },
+    "shopSimilarLooksText": {
+        "value": "Shop similar looks",
+        "_value.comment": "Text to show on Shop similar looks button"
+    },
+    "signInAriaLabel": {
+        "value": "To rate and review, please sign in",
+        "_value.comment": "The sign in button aria label"
+    },
+    "signInLabel": {
+        "value": "Sign in",
+        "_value.comment": "The sign in button label"
+    },
+    "signInLinkAriaText": {
+        "value": "Sign in",
+        "_value.comment": "Sign-in Link aria text"
+    },
+    "signInLinkText": {
+        "value": " ",
+        "_value.comment": "Sign-in Link text"
+    },
+    "signInMessage": {
+        "value": "Please sign in to rate and review.",
+        "_value.comment": "Message shown to tell the user to sign in to leave a review."
+    },
+    "signOutLinkAriaText": {
+        "value": "Sign out",
+        "_value.comment": "Sign-out in Link aria text"
+    },
+    "signOutLinkText": {
+        "value": "Sign out",
+        "_value.comment": "Sign-out in Link aria text"
+    },
+    "signUpButtonAriaLabel": {
+        "value": "Sign Up",
+        "_value.comment": "signUp button aria label."
+    },
+    "signUpButtonArialabel": {
+        "value": "Sign up",
+        "_value.comment": "Sign-up button aria label"
+    },
+    "signUpButtonText": {
+        "value": "Sign up",
+        "_value.comment": "Sign-up button text"
+    },
+    "signUpDescriptionText": {
+        "value": "Create an account with us to track your orders and save your favorites to the Wishlist.",
+        "_value.comment": "Sign-up description."
+    },
+    "singleItemText": {
+        "value": "{0} item",
+        "_value.comment": "Display one item for the pickup group"
+    },
+    "singleProductCountAriaLabel": {
+        "value": "{0} product have this rating",
+        "_value.comment": "The aria label used for the single product for this rating"
+    },
+    "sliderThumbLabel": {
+        "value": "Slider thumb",
+        "_value.comment": "Video player slider thumb label"
+    },
+    "sortByAscending": {
+        "value": "ascending",
+        "_value.comment": "Aria label for ascending sorting"
+    },
+    "sortByDescending": {
+        "value": "descending",
+        "_value.comment": "Aria label for descending sorting"
+    },
+    "sortByDropdownLabel": {
+        "value": "Sort by:",
+        "_value.comment": "Label used for the sort-by dropdown"
+    },
+    "sortByDropdownText": {
+        "value": "Sort by:",
+        "_value.comment": "Text used for the sort by dropdown."
+    },
+    "sortByOptionBestSelling": {
+        "value": "Best Selling",
+        "_value.comment": "Text used for the sort-by dropdown option of best selling"
+    },
+    "sortByOptionNameAsc": {
+        "value": "Name: A to Z",
+        "_value.comment": "Text used for the sort-by dropdown option of name A-Z"
+    },
+    "sortByOptionNameDesc": {
+        "value": "Name: Z to A",
+        "_value.comment": "Text used for the sort-by dropdown option of name Z-A"
+    },
+    "sortByOptionNewScore": {
+        "value": "New",
+        "_value.comment": "Text used for the sort-by dropdown option of new score"
+    },
+    "sortByOptionPriceAsc": {
+        "value": "Price: Low to High",
+        "_value.comment": "Text used for the sort-by dropdown option of price low-high"
+    },
+    "sortByOptionPriceDesc": {
+        "value": "Price: High to Low",
+        "_value.comment": "Text used for the sort-by dropdown option of price high-low"
+    },
+    "sortByOptionRatingDesc": {
+        "value": "Rating: High to Low",
+        "_value.comment": "Text used for the sort-by dropdown option of rating high-low"
+    },
+    "sortByOptionRelevanceDesc": {
+        "value": "Relevance",
+        "_value.comment": "Text used for the sort-by dropdown option of relevance high-low"
+    },
+    "sortByOptionTrendingScore": {
+        "value": "Trending",
+        "_value.comment": "Text used for the sort-by dropdown option of trending score"
+    },
+    "specifyAmountButtonText": {
+        "value": "Specify amount",
+        "_value.comment": "Specify amount button text for price editor"
+    },
+    "statementRequestModalHeaderLabel": {
+        "value": "Request account statement",
+        "_value.comment": "Label for the request account statement modal header"
+    },
+    "stayOnCurrentSiteButtonText": {
+        "value": "STAY ON THIS SITE",
+        "_value.comment": "Text for the button to indicate stay on current site"
+    },
+    "storeAddressAriaLabel": {
+        "value": "store address",
+        "_value.comment": "Aria label for store address"
+    },
+    "storeAllCountMessage": {
+        "value": "We found {count} stores.",
+        "_value.comment": "message to show in BPOIS modal count of all stores"
+    },
+    "storeCountMessage": {
+        "value": "We found {count} stores within {radius} miles of you.",
+        "_value.comment": "message to show in BPOIS modal count of stores"
+    },
+    "storeCountMessageInKm": {
+        "value": "We found {count} stores within {radius} kilometers of you.",
+        "_value.comment": "message to show in BPOIS modal count of stores"
+    },
+    "storeHoursClosedText": {
+        "value": "Closed",
+        "_value.comment": "String to show on store hours for days where store is closed"
+    },
+    "storeHoursFridayFullText": {
+        "value": "Friday",
+        "_value.comment": "String to show when referring to the day 'Friday'"
+    },
+    "storeHoursFridayText": {
+        "value": "Fri",
+        "_value.comment": "String to show when refering to the day 'Friday'"
+    },
+    "storeHoursMondayFullText": {
+        "value": "Monday",
+        "_value.comment": "String to show when referring to the day 'Monday'"
+    },
+    "storeHoursMondayText": {
+        "value": "Mon",
+        "_value.comment": "String to show when refering to the day 'Monday'"
+    },
+    "storeHoursSaturdayFullText": {
+        "value": "Saturday",
+        "_value.comment": "String to show when referring to the day 'Saturday'"
+    },
+    "storeHoursSaturdayText": {
+        "value": "Sat",
+        "_value.comment": "String to show when refering to the day 'Saturday'"
+    },
+    "storeHoursSundayFullText": {
+        "value": "Sunday",
+        "_value.comment": "String to show when referring to the day 'Sunday'"
+    },
+    "storeHoursSundayText": {
+        "value": "Sun",
+        "_value.comment": "String to show when refering to the day 'Sunday'"
+    },
+    "storeHoursThursdayFullText": {
+        "value": "Thursday",
+        "_value.comment": "String to show when referring to the day 'Thursday'"
+    },
+    "storeHoursThursdayText": {
+        "value": "Thur",
+        "_value.comment": "String to show when refering to the day 'Thursday'"
+    },
+    "storeHoursTuesdayFullText": {
+        "value": "Tuesday",
+        "_value.comment": "String to show when referring to the day 'Tuesday'"
+    },
+    "storeHoursTuesdayText": {
+        "value": "Tue",
+        "_value.comment": "String to show when refering to the day 'Tuesday'"
+    },
+    "storeHoursWednesdayFullText": {
+        "value": "Wednesday",
+        "_value.comment": "String to show when referring to the day 'Wednesday'"
+    },
+    "storeHoursWednesdayText": {
+        "value": "Wed",
+        "_value.comment": "String to show when refering to the day 'Wednesday'"
+    },
+    "storeLabel": {
+        "value": "Store",
+        "_value.comment": "Store label"
+    },
+    "storeLocatorHeaderText": {
+        "value": "Store Locator",
+        "_value.comment": "Header text for store locator section"
+    },
+    "storePhoneAriaLabel": {
+        "value": "store phone",
+        "_value.comment": "Aria label for store phone"
+    },
+    "storeSelectorHeaderText": {
+        "value": "Buy now, pick up in a store",
+        "_value.comment": "Heading text for the find in store section"
+    },
+    "subTotalLabel": {
+        "value": "Subtotal",
+        "_value.comment": "Items with count label"
+    },
+    "submitBtnAriaLabel": {
+        "value": "Submit search",
+        "_value.comment": "Text for submit button aria label"
+    },
+    "submitButtonText": {
+        "value": "Submit",
+        "_value.comment": "Localized text for the submit button for Payment instrument module"
+    },
+    "submitRequestLabel": {
+        "value": "Submit request",
+        "_value.comment": "The label for the submit request button"
+    },
+    "submitReviewButtonText": {
+        "value": "Submit",
+        "_value.comment": "The submit review button text"
+    },
+    "subscribeButtonLabel": {
+        "value": "Sign Me Up",
+        "_value.comment": "Label for subscribe button"
+    },
+    "subscribeEmailPlaceholderText": {
+        "value": "Enter your email address",
+        "_value.comment": "Placeholder text for Email Address input box"
+    },
+    "subscribeFormAriaLabel": {
+        "value": "Subscribe form",
+        "_value.comment": "Placeholder text for subscribe form aria label"
+    },
+    "subscribeFormEmailAriaLabel": {
+        "value": "Email address",
+        "_value.comment": "Placeholder text for subscribe form email aria label"
+    },
+    "subscribeFormSubmitAriaLabel": {
+        "value": "Sign me up",
+        "_value.comment": "Placeholder text for subscribe form submit aria label"
+    },
+    "taxLabel": {
+        "value": "Tax",
+        "_value.comment": "Label of estimated tax"
+    },
+    "termsAndConditionErrorMessage": {
+        "value": "Terms and conditions have to be accepted to proceed further.",
+        "_value.comment": "Localized error message for terms and conditions not accepted"
+    },
+    "threeStarFilterByOptionText": {
+        "value": "3 stars",
+        "_value.comment": "Text which is shown in filter by dropdown to show review with 3 star ratings."
+    },
+    "throttledError": {
+        "value": "There have been too many requests to verify this email address. Please wait a while, then try again.",
+        "_value.comment": "Error to display when too many requests is submitted to verify email address."
+    },
+    "timeText": {
+        "value": "Store hours",
+        "_value.comment": "This field is used to specify the store hours text"
+    },
+    "titleSeparate": {
+        "value": ",",
+        "_value.comment": "Title Separator"
+    },
+    "toBeCalculatedText": {
+        "value": "To be calculated",
+        "_value.comment": "Label of to be calculated"
+    },
+    "toDateLabel": {
+        "value": "To",
+        "_value.comment": "The label for the to date selector"
+    },
+    "toggleAllSeparator": {
+        "value": "|",
+        "_value.comment": "Toggle all separator"
+    },
+    "toggleDisableText": {
+        "value": "No",
+        "_value.comment": "Label for turned-off state of toggle button."
+    },
+    "toggleEnableText": {
+        "value": "Yes",
+        "_value.comment": "Label for turned-on state of toggle button."
+    },
+    "totalAmountLabel": {
+        "value": "Amount due",
+        "_value.comment": "Label of total amount"
+    },
+    "totalAvailablePointsLabel": {
+        "value": "Total available points",
+        "_value.comment": "Label for total amount of available loyalty points"
+    },
+    "totalDiscountsLabel": {
+        "value": "Total discounts",
+        "_value.comment": "Label of total discounts"
+    },
+    "totalLoyaltyDollarAmountText": {
+        "value": "Total available dollar amount: ",
+        "_value.comment": "The text to display to the user to show their loyalty points in total dollar amount"
+    },
+    "totalPriceFormatString": {
+        "value": "Subtotal: {price}",
+        "_value.comment": "String associated with total price to display. Price = formatted price"
+    },
+    "totalPriceLabel": {
+        "value": "Total",
+        "_value.comment": "Text label for total price of configured product"
+    },
+    "totalSavings": {
+        "value": "Total savings ",
+        "_value.comment": "String associated with Total Savings display text"
+    },
+    "totalSavingsLabel": {
+        "value": "Total savings",
+        "_value.comment": "Label of total savings"
+    },
+    "totalSavingsText": {
+        "value": "Savings",
+        "_value.comment": "String that corresponds to the total savings display text"
+    },
+    "trackingAriaLabel": {
+        "value": "track your order",
+        "_value.comment": "aria label for tracking number link"
+    },
+    "trackingComingSoonLabel": {
+        "value": "Not yet available",
+        "_value.comment": "tracking number coming soon"
+    },
+    "trackingLabel": {
+        "value": "Tracking number: ",
+        "_value.comment": "tracking number label for orders"
+    },
+    "trueValueText": {
+        "value": "Yes",
+        "_value.comment": "Text to show for boolean fields whose value is true"
+    },
+    "twoStarFilterByOptionText": {
+        "value": "2 stars",
+        "_value.comment": "Text which is shown in filter by dropdown to show review with 2 star ratings."
+    },
+    "unMuteLabel": {
+        "value": "unMute",
+        "_value.comment": "Aria label for unMute button"
+    },
+    "unableToGetOrderTemplateList": {
+        "value": "Unable to get order template list!",
+        "_value.comment": "Text for the not getting order template list"
+    },
+    "unableToGetWishlist": {
+        "value": "Unable to get wishlists!",
+        "_value.comment": "Text for the not getting wishlist"
+    },
+    "unknownError": {
+        "value": "We are having trouble signing you in. Please try again later.",
+        "_value.comment": "Unknown error message."
+    },
+    "updateQuantityButtonText": {
+        "value": "Yes, update quantity",
+        "_value.comment": "Error dialog cancel button text when order template already has the same item added"
+    },
+    "userAccountStatementLabel": {
+        "value": "Account statement",
+        "_value.comment": "The label for the dropdown option where the admin requests the statement for a single user."
+    },
+    "validationErrorNotNumber": {
+        "value": "Input should be a number",
+        "_value.comment": "Error message to display when a value entered for range refiner min-max is non-numeric"
+    },
+    "validationErrorNotRange": {
+        "value": "Invalid range: minimum should be less than maximum",
+        "_value.comment": "Error message to display when a value entered for range refiner min-max results in an invalid range"
+    },
+    "verificationCodeLabelText": {
+        "value": "Verification code *",
+        "_value.comment": "Text display as label for verification code textbox."
+    },
+    "verificationCodeSendSuccess": {
+        "value": "Verification code has been sent to your inbox. Please copy it to the verification code input box.",
+        "_value.comment": "Message to display on verification code is send successfully."
+    },
+    "verifyCodeButtonAriaLabel": {
+        "value": "Verify code",
+        "_value.comment": "Verify code button aria label."
+    },
+    "verifyCodeButtonText": {
+        "value": "Verify code",
+        "_value.comment": "Verify code button text."
+    },
+    "videoTimeDurationLabel": {
+        "value": "Video time duration",
+        "_value.comment": "Label for the current and end time for video"
+    },
+    "viewCartButtonText": {
+        "value": "View bag and checkout",
+        "_value.comment": "View cart text on item added to cart dialog"
+    },
+    "viewListText": {
+        "value": "View List",
+        "_value.comment": "Test for view list button"
+    },
+    "viewLoyaltyPageText": {
+        "value": "View loyalty details",
+        "_value.comment": "View loyalty page link text"
+    },
+    "viewMapText": {
+        "value": "View Map",
+        "_value.comment": "Text for view map button"
+    },
+    "viewOrderTemplateButtonText": {
+        "value": "View order template",
+        "_value.comment": "View order template text on item added to order template dialog"
+    },
+    "viewProductDetailsText": {
+        "value": "View product details",
+        "_value.comment": "Text to show when user can view product details"
+    },
+    "volumeThumbLabel": {
+        "value": "Volume Thumb",
+        "_value.comment": "Video player volume thumb label"
+    },
+    "waitingClass": {
+        "value": "waiting waiting-circular waiting-lg",
+        "_value.comment": "CSS class for the waiting class"
+    },
+    "wasReviewHelpfulText": {
+        "value": "Was this helpful?",
+        "_value.comment": "The text for the question to ask user if the review was helpful."
+    },
+    "webTrackingDescription": {
+        "value": "Enable browsing activity to be logged to enhance the browsing experience",
+        "_value.comment": "Web Tracking description."
+    },
+    "webTrackingDisableButtonAriaLabel": {
+        "value": "Disable browsing activity to be logged",
+        "_value.comment": "Disable browsing activity button aria label."
+    },
+    "webTrackingEnableButtonAriaLabel": {
+        "value": "Enable browsing activity to be logged",
+        "_value.comment": "Enable browsing activity button aria label."
+    },
+    "wishlistErrorGettingWishlist": {
+        "value": "Sorry we are unable to load your wishlist at this moment, please try again later.",
+        "_value.comment": "Text for the error message while getting wishlist"
+    },
+    "wishlistTooltipText": {
+        "value": "My Wishlist",
+        "_value.comment": "string to be shown for wishlist tooltip"
+    },
+    "writeReviewModalTitle": {
+        "value": "Write a review",
+        "_value.comment": "The title of the modal window for writing a review"
+    },
+    "orderLookupDefaultHeadingText": {
+        "_value.comment": "default heading text if it is not configured",
+        "value": "Order Lookup"
+    },
+    "orderLookupRegisteredUserText": {
+        "_value.comment": "Message for registered user",
+        "value": "If you are a registered user of this site, your full order history can be viewed in your account details."
+    },
+    "orderLookupSignInLinkText": {
+        "_value.comment": "Sign in link text",
+        "value": "Sign in"
+    },
+    "orderLookupViewAccountText": {
+        "_value.comment": "View account text",
+        "value": "to view your account."
+    },
+    "orderLookupButtonLabel": {
+        "_value.comment": "Label for order lookup button",
+        "value": "Find your order"
+    },
+    "orderLookupFormAriaLabel": {
+        "_value.comment": "Text for order lookup form aria label",
+        "value": "Order Lookup form"
+    },
+    "orderLookupOrderNumberLabel": {
+        "_value.comment": "Text for order lookup label text",
+        "value": "Order Confirmation ID*"
+    },
+    "orderLookupOrderNumberAriaLabel": {
+        "_value.comment": "Text for order lookup form aria label",
+        "value": "Order Confirmation ID"
+    },
+    "orderLookupEmailLabel": {
+        "_value.comment": "Label for Email text",
+        "value": "Email address*"
+    },
+    "orderLookupEmailAriaLabel": {
+        "_value.comment": "Text for order lookup form email aria label",
+        "value": "Email address"
+    },
+    "orderLookupEmailValidationErrorMessage": {
+        "_value.comment": "Error message when email validation fails",
+        "value": "Please enter a valid email address"
+    },
+    "orderLookupOrderNumberValidationErrorMessage": {
+        "_value.comment": "Error message when order number validation fails",
+        "value": "Please enter a valid confirmation id"
+    },
+    "orderLookupFieldValidationErrorMessage": {
+        "_value.comment": "Error message when field validation fails",
+        "value": "This field is not valid"
+    },
+    "orderLookupSubmitAriaLabel": {
+        "_value.comment": "Aria Label for order lookup button",
+        "value": "Find your order"
+    },
+    "orderLookupRequiredTextErrorMessage": {
+        "_value.comment": "Error message when required box is empty",
+        "value": "This field is required"
+    },
+    "yesButtonText": {
+        "value": "Upvote this review",
+        "_value.comment": "The label which is shown button which allows user to upvote"
+    },
+    "yetToBeCalculatedText": {
+        "value": "To be calculated",
+        "_value.comment": "String associated with to be calculated display text"
+    },
+    "orderHistoryExpandProductsButtonText": {
+        "value": "+{0} more",
+        "_value.comment": "Text to display to expand product images"
+    },
+    "signUpCustomerNotFoundTitle": {
+        "value": "Your sign-up was successful, but your business user record has not yet been approved. Please try signing in at a later time or you may sign in once instructed your account has been approved.",
+        "_value.comment": "Error message if cutsomer not found"
+    },
+    "signUpMultipleCustomerFoundTitle": {
+        "value": "Your sign-up was successful, but there is an issue associating to the business user account. Please try signing in at a later time.",
+        "_value.comment": "Multiple customers found error msg"
+    },
+    "productDimensionsMatrixInputQuantityAriaLabel": {
+        "value": "Quantity To Purchase",
+        "_value.comment": "Aria label for the input quantity in product dimensions matrix"
+    },
+    "productDimensionsMatrixTotalItemsLabel": {
+        "value": "Items",
+        "_value.comment": "Text for X total items in product dimensions matrix"
+    },
+    "productDimensionsMatrixOutOfStockLabel": {
+        "value": "Out of stock",
+        "_value.comment": "Text to show when a product variant is not available for purchase"
+    },
+    "productDimensionsMatrixEnterAllQuantitiesButtonText": {
+        "value": "Enter all quantities",
+        "_value.comment": "Text for the button to set quantity to all product variants"
+    },
+    "productDimensionsMatrixEnterAllQuantitiesQuantityText": {
+        "value": "Quantity",
+        "_value.comment": "Text for the label for quantity input in the enter all quantities popup"
+    },
+    "productDimensionsMatrixEnterAllQuantitiesEachText": {
+        "value": "Each",
+        "_value.comment": "Text for the label for the action label in the enter all quantities popup"
+    },
+    "productDimensionsMatrixEnterAllQuantitiesApplyToAllText": {
+        "value": "Apply to all",
+        "_value.comment": "Text for the button to apply quantity to all product variants in the enter all quantities popup"
+    },
+    "productDimensionsMatrixClearAllText": {
+        "value": "Clear all quantities",
+        "_value.comment": "Text for the clear all quantities button"
+    },
+    "productDimensionsMatrixAddItemsToCartButtonText": {
+        "value": "Add items to bag",
+        "_value.comment": "Text for the add to cart button"
+    },
+    "productDimensionsMatrixEnterAllQuantitiesDecrementButtonAriaLabel": {
+        "value": "Press to decrease the quantity by 1",
+        "_value.comment": "Aria label for the quantity decrease button"
+    },
+    "productDimensionsMatrixEnterAllQuantitiesIncrementButtonAriaLabel": {
+        "value": "Press to increment quantity by 1",
+        "_value.comment": "Aria label for the quantity increment button"
+    },
+    "addProductsToOrderTemplateButton": {
+        "value": "Add to Order Template",
+        "_value.comment": "Text for the add to order template button"
+    },
+    "addProductsToOrderTemplateButtonTooltip": {
+        "value": "Add to Order Template",
+        "_value.comment": "Text for the add to order template button"
+    },
+    "orderTemplateHeaderLabel": {
+        "value": "Create an order template",
+        "_value.comment": "Text for create order template dialog header"
+    },
+    "orderTemplateTitleLabel": {
+        "value": "Order template title",
+        "_value.comment": "Text for order template dialog title"
+    },
+    "orderTemplateDescription": {
+        "value": "Order templates will be saved to your account. You can reuse them in the future to speed up the checkout process. Create an order template and add this item to it.",
+        "_value.comment": "Text for create order template dialog description"
+    },
+    "orderTemplateButtonLabel": {
+        "value": "Create",
+        "_value.comment": "Text for create order template dialog create button"
+    },
+    "orderTemplateCancelButtonLabel": {
+        "value": "Cancel",
+        "_value.comment": "Text for create order template dialog cancel button"
+    },
+    "goToCartText": {
+        "value": "View bag and checkout",
+        "_value.comment": "Text to show on Button to view cart"
+    },
+    "continueShoppingText": {
+        "value": "Continue shopping",
+        "_value.comment": "Text to show on Button to continue shopping"
+    },
+    "headerItemOneText": {
+        "value": "1 item",
+        "_value.comment": "View order template text on item added to cart dialog"
+    },
+    "headerItemFormatText": {
+        "value": "{0} items",
+        "_value.comment": "View order template text on item added to order template dialog"
+    },
+    "headerMessageText": {
+        "value": " added to bag",
+        "_value.comment": "View order template text on item added to cart dialog"
+    },
+    "bulkPurchaseHeaderTitle": {
+        "value": "Purchase in bulk",
+        "_value.comment": "Text to show for the header"
+    },
+    "bulkPurchaseDescriptionText": {
+        "value": "Enter quantities across multiple products and add them to the shopping bag all at once.<br/>Change the sequence of the columns by clicking the column label.<br/>Example: Color, Style or Size.",
+        "_value.comment": "Description of the module"
+    },
+    "bulkPurchaseLinkText": {
+        "value": "Place a bulk order",
+        "_value.comment": "Text to use for the bulk purchase module anchor"
+    },
+    "productDimensionsMatrixDisplayOrderLabel": {
+        "value": "Display order",
+        "_value.comment": "Text for display order"
+    },
+    "productDimensionsMatrixDisplayOrderSeparator": {
+        "value": " / ",
+        "_value.comment": "Separator for display order dimensions"
+    }
+}

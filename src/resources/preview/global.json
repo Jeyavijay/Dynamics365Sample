@@ -1,0 +1,26 @@
+{
+    "modules": {
+        "@header": {
+            "header": {
+                "header_logoImage_altText": "Sample logo image alt",
+                "header_logoImage_title": "Title",
+                "header_myAccountLinks_linkText": "Link",
+                "header_myAccountLinks_ariaLabel": "Sample aria label"
+            }
+        },
+        "@newsletter": {
+            "newsletter": {
+                "subscribe_showText": "Example Config Value"
+            }
+        }
+    },
+    "themes": {
+        "@sf-fabrikam": {
+            "text-block": {
+                "text-block": {
+                    "textBlock_paragraph_theme": "<h5>To get started right away, just select any placeholder text (such as this) and start typing to replace it with your own.</h5>"
+                }
+            }
+        }
+    }
+}
